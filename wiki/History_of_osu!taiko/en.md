@@ -22,8 +22,8 @@ The Dark Period was the brief moment in time where osu!taiko didn't exist. Durin
 > Yes, Taiko Mode (and the broader concept of alternate game modes) was effectively my idea. As far as I can recall, Catch the Beat and Relax Mode were also my requests. I think Mania mode came about later since I didn't think that kind of thing made sense organically from osu maps. I was a big fan of the Taiko games that came out on the Nintendo DS, that was basically my exposure to "real" taiko. I did own a copy of Taiko Drum Master for PS2 but I think I got that from eBay relatively late. But the specific idea of including a "Taiko Mode" in osu was inspired by the Taiko-themed minigame in the Nodame Cantabile DS game.
 
 [LuigiHann](https://osu.ppy.sh/users/1079) is well known in the Taiko community because of his [Taiko skin](https://osu.ppy.sh/community/forums/topics/41319?start=610187), which was the very first popular skin for the game mode. Regarding that, [LuigiHann](https://osu.ppy.sh/users/1079) said:
->I actually made the [Taiko skin](https://osu.ppy.sh/community/forums/topics/41319?start=610187) before the mode was a real thing. I think I must have made the taiko skin after suggesting taiko mode, since the taiko mode posts are super early, but as far as I recall I made the skin before the mode became a real thing. at any rate I intended it as a novelty skin for standard mode, and didn't exactly have taiko mode in mind when I was making it
-I thought it was neat and interesting that the taiko community adapted it into such an authentic skin for taiko mode.
+
+>I actually made the [Taiko skin](https://osu.ppy.sh/community/forums/topics/41319?start=610187) before the mode was a real thing. I think I must have made the taiko skin after suggesting taiko mode, since the taiko mode posts are super early, but as far as I recall I made the skin before the mode became a real thing. at any rate I intended it as a novelty skin for standard mode, and didn't exactly have taiko mode in mind when I was making it. I thought it was neat and interesting that the taiko community adapted it into such an authentic skin for taiko mode.
 
 ## 2008-2011: Age of Growth
 
@@ -69,7 +69,7 @@ A few notable figures would appear during early 2012, [wmfchris](https://osu.ppy
 
 On the 22th of January 2012, the first official Taiko Ranking Criteria was proposed via a [forum post](https://osu.ppy.sh/community/forums/topics/72569). This version of the Taiko Ranking Criteria was written by [OnosakiHito](https://osu.ppy.sh/users/290128). This Ranking Criteria would be adapted and months later on the 7th of August, 2012, the very first Taiko-only mapset was ranked, [Red Goose](https://osu.ppy.sh/beatmapsets/55920#taiko/169369) by the mapper [lepidopodus](https://osu.ppy.sh/users/194807). 
 
-A year later on the 2nd of August, 2013, the [osu!taiko BAT](https://osu.ppy.sh/wiki/en/Staff_Log/2013#august) was formed. The osu!taiko BATs were BATs that were dedicated to only checking Taiko mapsets. This is different from the Taiko "specialized" BATs mentioned previously. The creation of the Taiko BAT was requested by [OnosakiHito](https://osu.ppy.sh/users/290128) to [Ephemeral](https://osu.ppy.sh/users/102335). The original roster consisted of [OnosakiHito](https://osu.ppy.sh/users/290128) and [Tasha](https://osu.ppy.sh/users/1031958); a few days later they would be joined by [KanaRin](https://osu.ppy.sh/users/310747) and [aabc271](https://osu.ppy.sh/users/155707).
+A year later on the 2nd of August, 2013, the [osu!taiko BAT](wiki/Staff_Log/2013/en.md) was formed. The osu!taiko BATs were BATs that were dedicated to only checking Taiko mapsets. This is different from the Taiko "specialized" BATs mentioned previously. The creation of the Taiko BAT was requested by [OnosakiHito](https://osu.ppy.sh/users/290128) to [Ephemeral](https://osu.ppy.sh/users/102335). The original roster consisted of [OnosakiHito](https://osu.ppy.sh/users/290128) and [Tasha](https://osu.ppy.sh/users/1031958); a few days later they would be joined by [KanaRin](https://osu.ppy.sh/users/310747) and [aabc271](https://osu.ppy.sh/users/155707).
 
 The last event to happen in the Age of Independence would be the creation of the first [Taiko-only beatmap pack](https://osu.ppy.sh/beatmaps/packs/817) on the 6th of November, 2013.
 
@@ -80,8 +80,8 @@ The Period of Stagnation is when Taiko started to stagnate after the big boost i
 > Because we had the (#taiko) channel we started seeing a lot more people interested in the game and it coincided with the TWC, just all that stuff happening a the same time kind of brought in a lot of new players that were interested in the game. However, after that, it kinda slowed down a little bit. So the mapping scene when rankable sets started coming in it started to grow but after that initial spurt of growing it kind of died down a little bit for a couple of years. We didn't get as many maps getting pushed through for a couple of different reasons. One of the main reasons being that people that had been involved with the ranking process for Taiko at that time were pretty conservative in their ideals of what made a good Taiko map.
 
 On the 21st of August 2014, [it was announced](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) that the BAT would be split into 2 groups: the BAT and a new group known as the [Quality Assurance Team](https://osu.ppy.sh/wiki/en/Modding/Quality_Assurance_Team)(*QAT*). From then on, the job of the BAT was to nominate maps, while the QAT’s job was to check the maps that were qualified and disqualify those that either didn’t meet the Ranking Criteria or their standards.
+
 ## 2015-2019: Age of Creativity
 The Age of Creativity is when Taiko mappers started to push the limits of what was deemed rankable by creating and subsequently ranking harder maps as well as developing more creative mapping styles.
-
 
 ## 2019-Present: Modern Age
