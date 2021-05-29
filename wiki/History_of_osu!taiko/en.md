@@ -79,9 +79,10 @@ The Period of Stagnation is when Taiko started to stagnate after the big boost i
 
 > Because we had the (#taiko) channel we started seeing a lot more people interested in the game and it coincided with the TWC, just all that stuff happening a the same time kind of brought in a lot of new players that were interested in the game. However, after that, it kinda slowed down a little bit. So the mapping scene when rankable sets started coming in it started to grow but after that initial spurt of growing it kind of died down a little bit for a couple of years. We didn't get as many maps getting pushed through for a couple of different reasons. One of the main reasons being that people that had been involved with the ranking process for Taiko at that time were pretty conservative in their ideals of what made a good Taiko map.
 
-On the 21st of August 2014, [it was announced](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) that the BAT would be split into 2 groups: the BAT and a new group known as the [Quality Assurance Team](https://osu.ppy.sh/wiki/en/Modding/Quality_Assurance_Team) (*QAT*). From then on, the job of the BAT was to nominate maps, while the QAT’s job was to check the maps that were qualified and disqualify those that either didn’t meet the Ranking Criteria or their standards.
+On the 21st of August 2014, [it was announced](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) that the BAT would be split into 2 groups: the BAT and a new group known as the [Quality Assurance Team](wiki/Modding/Quality_Assurance_Team/en.md) (*QAT*). From then on, the job of the BAT was to nominate maps, while the QAT’s job was to check the maps that were qualified and disqualify those that either didn’t meet the Ranking Criteria or their standards.
 
 ## 2015-2019: Age of Creativity
+
 The Age of Creativity is when Taiko mappers started to push the limits of what was deemed rankable by creating and subsequently ranking harder maps as well as developing more creative mapping styles.
 
 ## 2019-Present: Modern Age
