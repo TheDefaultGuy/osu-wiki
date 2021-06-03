@@ -142,7 +142,7 @@ A list of the most important and influential people throughout osu!taiko's histo
 | Name | Contributions |
 | :-- | :-- |
 | [LuigiHann](https://osu.ppy.sh/users/1079) | Proposed the addition of a Taiko game mode and created skin assests for Taiko and other modes. |
-| [Kharl](https://osu.ppy.sh/users/452) | Created the first ranked Taiko difficulty. | 
+| [Kharl](https://osu.ppy.sh/users/452) | Created the first ranked Taiko difficulty. |
 | [mattyu007](https://osu.ppy.sh/users/4934) | The first BAT that was knowledgable in Taiko. |
 | [Alace](https://osu.ppy.sh/users/25993) | One of the earliest Taiko-capable BATs and manager of the first Taiko World Cup. |
 | [aquabluu](https://osu.ppy.sh/users/6537) | One of the earliest members of the Taiko community, mapper of Taiko no Tatsujin music and creator of the Taiko Trials. |
