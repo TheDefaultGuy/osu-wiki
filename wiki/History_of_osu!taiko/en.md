@@ -39,6 +39,8 @@ Taiko [was added](https://osu.ppy.sh/community/forums/topics/15?n=355) to osu! o
 
 On the 22nd of May, 2008, the very first Ranked Taiko difficulty was added. It belongs to the map [Saitama2000](https://osu.ppy.sh/beatmapsets/210#osu/699) by the mapper [Kharl](https://osu.ppy.sh/users/452). It's important to note that the map itself was actually ranked before Taiko was added. The Taiko difficulty was [added later](https://osu.ppy.sh/community/forums/topics/856?n=7) by the mapper and then subsequently ranked by [peppy](https://osu.ppy.sh/users/2).
 
+### Special Mode
+
 On the 18th of October, 2008, Taiko would go from being a mod to a separate game mode when the “Special” mode selection tab [was added](https://osu.ppy.sh/community/forums/topics/15?n=600).
 
 ![](/wiki/History_of_osu!taiko/img/specialtab.png "Special mode selection tab")
@@ -133,14 +135,13 @@ Around the time all 3 maps were going through the ranking process, the [Taiko No
 
 The Modern Age starts off with the restructure of the QAT to the [Nomination Assessment Team](wiki/People/The_Team/Nomination_Assessment_Team/en.md) (*NAT*) on the 5th of May, 2019.
 
-
 ## Important Individuals
 
 A list of the most important and influential people throughout osu!taiko's history along with a brief explanation of their contributions.
 
 | Name | Contributions |
 | :-- | :-- |
-| [LuigiHann](https://osu.ppy.sh/users/1079) | Proposed the addition of a Taiko game mode and created skin assests for Taiko and other modes. | 
+| [LuigiHann](https://osu.ppy.sh/users/1079) | Proposed the addition of a Taiko game mode and created skin assests for Taiko and other modes. |
 | [Kharl](https://osu.ppy.sh/users/452) | Created the first ranked Taiko difficulty. | 
 | [mattyu007](https://osu.ppy.sh/users/4934) | The first BAT that was knowledgable in Taiko. |
 | [Alace](https://osu.ppy.sh/users/25993) | One of the earliest Taiko-capable BATs and manager of the first Taiko World Cup. |
@@ -150,17 +151,17 @@ A list of the most important and influential people throughout osu!taiko's histo
 | [wmfchris](https://osu.ppy.sh/users/7401) |  One of the earliest Taiko Mappers,  Taiko-capable BAT and manager of the first Taiko World Cup. |
 | [MMzz](https://osu.ppy.sh/users/128993) | One of the Taiko-capable MATs and BATs. |
 | [OnosakiHito](https://osu.ppy.sh/users/290128) | Overall leading figure of the community and responsible for the creation of the #taiko channel, the Taiko BAT, the Taiko Ranking Criteria, the TNA and the TBT project. |
-| [kanpakyin](https://osu.ppy.sh/users/394326) | 
-| [NatsumeRin](https://osu.ppy.sh/users/151679) | 
-| [KanaRin](https://osu.ppy.sh/users/310747) | 
-| [karterfreak](https://osu.ppy.sh/users/1031958) | 
-| [aabc271](https://osu.ppy.sh/users/155707) | 
-| [Sayaka-](https://osu.ppy.sh/users/398275) | 
+| [kanpakyin](https://osu.ppy.sh/users/394326) | |
+| [NatsumeRin](https://osu.ppy.sh/users/151679) | |
+| [KanaRin](https://osu.ppy.sh/users/310747) | |
+| [karterfreak](https://osu.ppy.sh/users/1031958) | |
+| [aabc271](https://osu.ppy.sh/users/155707) | |
+| [Sayaka-](https://osu.ppy.sh/users/398275) | |
 | [Raiden](https://osu.ppy.sh/users/2239480) | Responsible for the rework of the Taiko Ranking Criteria. |
-| [DakeDekaane](https://osu.ppy.sh/users/1425253) | 
-| [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | 
-| [lolcubes](https://osu.ppy.sh/users/578401) |
-| [Love](https://osu.ppy.sh/users/467487) |
-| [Aloda](https://osu.ppy.sh/users/1190127) |
-| [Nepuri](https://osu.ppy.sh/users/6637817) |
-| [Tyistiana](https://osu.ppy.sh/users/1421452) |
+| [DakeDekaane](https://osu.ppy.sh/users/1425253) | |
+| [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | |
+| [lolcubes](https://osu.ppy.sh/users/578401) | |
+| [Love](https://osu.ppy.sh/users/467487) | |
+| [Aloda](https://osu.ppy.sh/users/1190127) | |
+| [Nepuri](https://osu.ppy.sh/users/6637817) | |
+| [Tyistiana](https://osu.ppy.sh/users/1421452) | |
