@@ -483,7 +483,7 @@ All-starは最終決戦と同じ週末に行われるエキシビションイベ
 5. 以下のルールを使った4 vs 4 の試合も行われます：
    - マッププールは 5 NM,HR,HD,DT,FM,EXと1 TB。(Modのルールは通常の試合と同じです)
    - ビートマップBANはなし。
-   - Modは!rollでテーブルに合わせて選ばれ、ビートマップはランダムで選ばれます。
+   - Modは`!roll`でテーブルに合わせて選ばれ、ビートマップはランダムで選ばれます。
    - 選手の入れ替わりは制限なしです。
    - 回線の切断については通常の試合と同じルールです。
 
@@ -493,7 +493,7 @@ All-starは最終決戦と同じ週末に行われるエキシビションイベ
 [flag_BR]: /wiki/shared/flag/BR.gif "ブラジル"
 [flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
 [flag_CL]: /wiki/shared/flag/CL.gif "チリ"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_CN]: /wiki/shared/flag/CN.gif "中華人民共和国"
 [flag_DE]: /wiki/shared/flag/DE.gif "ドイツ"
 [flag_DK]: /wiki/shared/flag/DK.gif "デンマーク"
 [flag_EC]: /wiki/shared/flag/EC.gif "エクアドル"
@@ -501,8 +501,8 @@ All-starは最終決戦と同じ週末に行われるエキシビションイベ
 [flag_FR]: /wiki/shared/flag/FR.gif "フランス"
 [flag_GB]: /wiki/shared/flag/GB.gif "イギリス"
 [flag_HK]: /wiki/shared/flag/HK.gif "香港"
-[flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_ID]: /wiki/shared/flag/ID.gif "インドネシア"
+[flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_KR]: /wiki/shared/flag/KR.gif "韓国"
 [flag_MX]: /wiki/shared/flag/MX.gif "メキシコ"
 [flag_MY]: /wiki/shared/flag/MY.gif "マレーシア"

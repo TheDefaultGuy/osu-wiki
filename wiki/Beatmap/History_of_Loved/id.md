@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 20e294a158d910bc93374879b5da9dc7822da8c1
+---
+
 # Histori Loved
 
 Kategori [Loved](/wiki/Beatmap/Category#loved) beatmap saat ini dikelola oleh [Project Loved](/wiki/Project_Loved). Namun, ini tidak selalu terjadi. Project Loved adalah tiga dari sistem utama yang digunakan untuk mempromosikan beatmap ke status Loved; sebelumnya, terdapat cara yang berbeda untuk melakukannya, serta stagnasi yang lama untuk kategori Loved.
@@ -40,6 +45,6 @@ Setelah beberapa putaran ini, Toy memutuskan menggunakan format pemungutan suara
 
 [Project Loved](/wiki/Project_Loved) adalah sistem sekarang yang digunakan untuk memindahkan map ke status Loved. Penjelasan lebih lanjut dan bagaimana supaya beatmaps masuk kedalam pemungutan suara Project Loved dapat ditemukan di dalam artikel wiki.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
+[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"

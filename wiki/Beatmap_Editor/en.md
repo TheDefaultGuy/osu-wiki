@@ -17,11 +17,11 @@ The beatmap editor is separated into four main sections which can be seen in the
 
 ## Compose
 
-[Compose](/wiki/Beatmap_Editor/Compose) is where all [hit objects](/wiki/Hit_Objects) and other gameplay-related elements are created. Most mappers spend more time in this tab than all of the others because of this.
+[Compose](/wiki/Beatmap_Editor/Compose) is where all [hit objects](/wiki/Hit_object) and other gameplay-related elements are created. Most mappers spend more time in this tab than all of the others because of this.
 
 ## Design
 
-[Design](/wiki/Beatmap_Editor/Design) offers a way to make [storyboards](/wiki/Storyboards), the visual effects that accompany beatmaps. Because storyboards often have complex effects warranting usage of many storyboard commands, mappers also use [storyboard scripting](/wiki/Storyboard_Scripting) directly without entering the design tab.
+[Design](/wiki/Beatmap_Editor/Design) offers a way to make [storyboards](/wiki/Storyboard), the visual effects that accompany beatmaps. Because storyboards often have complex effects warranting usage of many storyboard commands, mappers also use [storyboard scripting](/wiki/Storyboard/Scripting) directly without entering the design tab.
 
 ## Timing
 

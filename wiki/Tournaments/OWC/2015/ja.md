@@ -46,7 +46,7 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 ## リンク
 
 - [ディスカッションスレッド](https://osu.ppy.sh/community/forums/posts/4550383)
-- [ライブストリーム](https://www.twitch.tv/osulive/)
+- [ライブストリーム](https://www.twitch.tv/osulive)
 - **[グループステージ統計概要](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
 ## 参加者
@@ -349,7 +349,7 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 3. それぞれのキャプテンはビートマップ群から2つビートマップを使用禁止にすることができます。ここで選ばれたビートマップは試合を通してどちらのチームも使用してはいけません。
    1. このビートマップ拒否権は必ずどちらも使用してください。
 4. ビートマップの選択は、各チームキャプテンが交互に行います。
-5. それぞれのキャプテンは\#multiplayerで"!roll"を使ってください。
+5. それぞれのキャプテンは`#multiplayer`で`!roll`を使ってください。
    1. 勝者は、試合で使うビートマップを先に選択してください。
    2. 敗者は、使用不可にしたいビートマップを先に2つ選択してください。
 6. キャプテンはどのカテゴリからでも自由にビートマップを選んで構いません。
@@ -388,7 +388,7 @@ osu! World Cup 2015は、様々なコミュニティのメンバーによって�
 [flag_AU]: /wiki/shared/flag/AU.gif "オーストラリア"
 [flag_BR]: /wiki/shared/flag/BR.gif "ブラジル"
 [flag_CA]: /wiki/shared/flag/CA.gif "カナダ"
-[flag_CN]: /wiki/shared/flag/CN.gif "中国"
+[flag_CN]: /wiki/shared/flag/CN.gif "中華人民共和国"
 [flag_DE]: /wiki/shared/flag/DE.gif "ドイツ"
 [flag_ES]: /wiki/shared/flag/ES.gif "スペイン"
 [flag_FI]: /wiki/shared/flag/FI.gif "フィンランド"

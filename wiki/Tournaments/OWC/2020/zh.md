@@ -9,7 +9,7 @@ tags:
 
 ![OWC 2020 标志](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
-**osu! 2020 世界杯**（***OWC 2020***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu! 世界杯的第 11 届。
+**osu! 2020 世界杯**（***OWC 2020***）是由 [osu!团队](/wiki/People/The_Team)举办的基于国家/地区间的官方锦标赛。这是 osu! 世界杯的第 11 届。
 
 *注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
 
@@ -304,7 +304,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 总决赛
 
-具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal "谷歌表格")中找到。
+具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1Csyk7zgrDF4iFJvgFRiBniCS6ZsQyXEkndNVUB65Un8/edit?rm=minimal)中找到。
 
 2020 年 12 月 5 日，星期六：
 
@@ -320,7 +320,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 决赛
 
-具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal "谷歌表格")中找到。
+具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1KV6_iFufp0azzzhcXwbX12hVsImkUY2-ss2Cp-UVU2I/edit?rm=minimal)中找到。
 
 2020 年 11 月 28 日，星期六：
 
@@ -338,7 +338,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 半决赛
 
-具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal "谷歌表格")中找到。
+具体的半决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/122QSYVa2tQo9LsSPzUB6jl2jpvpHxuG-6OmrWZ_ZBIk/edit?rm=minimal)中找到。
 
 2020 年 11 月 21 日，星期六：
 
@@ -360,7 +360,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 四分之一决赛
 
-具体的四分之一决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal "谷歌表格")中找到。
+具体的四分之一决赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1M0EikaR4xZr4T-eKapCVReNAazTgE8P1Gjn_CSb4mQw/edit?rm=minimal)中找到。
 
 2020 年 11 月 14 日，星期六：
 
@@ -390,7 +390,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 十六强赛
 
-具体的十六强赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal "谷歌表格")中找到。
+具体的十六强赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1b1iHKwiq-b3BD3XtSbtRfzp2Z4VbbsE6k4fnrphei-Y/edit?rm=minimal)中找到。
 
 2020 年 11 月 7 日，星期六：
 
@@ -420,7 +420,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 三十二强赛
 
-具体的三十二强赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal "谷歌表格")中找到。
+具体的三十二强赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1Kj0Y1ycdQjPPGIBNUvJqnEi4U5UlBvJPhkXQbsmTYLg/edit?rm=minimal)中找到。
 
 2020 年 10 月 31 日，星期六：
 
@@ -450,7 +450,7 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 
 ### 资格赛
 
-具体的资格赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal "谷歌表格")中找到。
+具体的资格赛统计信息可以在[谷歌试算表](https://docs.google.com/spreadsheets/d/1BtrSLxDKdwPKXjIgbOkeojD0W80MAdH5ady__RIWj3Y/edit?&rm=minimal)中找到。
 
 ## 规则
 
@@ -531,9 +531,9 @@ osu! 2020 世界杯由 osu! team 和多位社区成员举办。
 2. 在三十二强赛和十六强赛中，每队队长可以选择 Ban **一张图**。
    - **从四分之一决赛开始，Ban 图数量为两张。但是每组 Mod 只能选择 Ban 一张（NoMod 除外）。**
 3. 谱面选择权将在两位队长之间交替。
-4. 两位队长必须在 #multiplayer 中使用 “!roll”。
-   - !roll 胜的队伍先 **Pick**。
-   - !roll 输的队伍先 **Ban**。
+4. 两位队长必须在 `#multiplayer` 中使用 `!roll`。
+   - `!roll` 胜的队伍先 **Pick**。
+   - `!roll` 输的队伍先 **Ban**。
    - **从四分之一决赛开始，先 Ban 的队伍先选择一张，随后另一只队伍选择两张，最后先 Ban 的队伍选择最后一张。**
 5. 队伍将有 2 分钟的时间选择谱面，以及 2 分钟的准备时间。
    - 如果队伍花费超过 2 分钟的时间来选择谱面，他们将收到裁判的警告，随后，裁判将使用 `!roll X` 从图池中随机选择一张谱面，其中 X 是被随机的可选谱面数量。

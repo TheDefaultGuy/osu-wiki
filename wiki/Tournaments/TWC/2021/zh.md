@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2021 标志](/wiki/shared/news/banners/TWC_2021.jpg)
 
-**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
+**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!团队](/wiki/People/The_Team)举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
 
 *注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 3 月 12 日 21:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/TWC/2021?locale=en)为准。*
 
@@ -94,8 +94,6 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 | ![][flag_GB] | **英国** | **[Horiiizon](https://osu.ppy.sh/users/8071438)**, [\_DUSK\_](https://osu.ppy.sh/users/6092181), [Teezel](https://osu.ppy.sh/users/7528639), [B0tch3d](https://osu.ppy.sh/users/9864847), [Daniels](https://osu.ppy.sh/users/12439209) |
 | ![][flag_US] | **美国** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [cheese salad](https://osu.ppy.sh/users/6349821), [R J](https://osu.ppy.sh/users/6490509), [3san](https://osu.ppy.sh/users/8050850), [ChurroChef](https://osu.ppy.sh/users/9258564) |
 | ![][flag_VN] | **越南** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [-BunZ-](https://osu.ppy.sh/users/7556673), [SaraSoul](https://osu.ppy.sh/users/13493346) |
-
----
 
 ## 比赛排程：十六强赛
 
@@ -230,8 +228,6 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 | **俄罗斯** ![][flag_RU] | **5** | 0 | ![][flag_CR] 哥斯达黎加 | [#1](https://osu.ppy.sh/community/matches/77454888) |
 | **日本** ![][flag_JP] | **5** | 0 | ![][flag_CL] 智利 | [#1](https://osu.ppy.sh/community/matches/77458452) |
 
----
-
 ## 规则
 
 ### 锦标赛规则
@@ -323,9 +319,9 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
    - 房间名称中提到的第一个队伍必须是红队，第二个队伍必须是蓝队。
 2. 每队队长可以选择 Ban **一张谱面**，本场比赛中无法选择被 Ban 的谱面。
 3. 谱面选择权将在两位队长之间交替。
-4. 两位队长必须在 #multiplayer 中使用 “!roll”。
-   - !roll 胜的队伍先 Pick。
-   - !roll 输的队伍先 Ban。
+4. 两位队长必须在 `#multiplayer` 中使用 `!roll`。
+   - `!roll` 胜的队伍先 Pick。
+   - `!roll` 输的队伍先 Ban。
 5. 接下来队长可以随意从图池中挑选谱面
    - 决胜局只能选择 Tiebreaker。
 6. 队伍将有 2 分钟的时间选择谱面，以及 2 分钟的准备时间。
@@ -364,8 +360,8 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 7. 队长有权负责队伍的可用性，以确保每个队伍可以在每场比赛上场至少四名队员。如果队伍无法提供两名队员参加比赛，则该比赛将被视为弃权。
 
 [flag_AR]: /wiki/shared/flag/AR.gif "阿根廷"
-[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
 [flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
 [flag_CH]: /wiki/shared/flag/CH.gif "瑞士"
@@ -382,8 +378,8 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 [flag_IT]: /wiki/shared/flag/IT.gif "意大利"
 [flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_KR]: /wiki/shared/flag/KR.gif "韩国"
-[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
 [flag_MX]: /wiki/shared/flag/MX.gif "墨西哥"
+[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"

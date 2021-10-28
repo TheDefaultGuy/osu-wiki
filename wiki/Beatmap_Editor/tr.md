@@ -17,11 +17,11 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
 ## Compose (Oluştur)
 
-[Compose (Oluştur)](/wiki/Beatmap_Editor/Compose) sekmesi tüm [vuruş objelerinin](/wiki/Hit_Objects) ve oynayış ile alakalı diğer elementlerin oluşturulduğu yerdir. Bundan ötürü pek çok mapper zamanlarının pek çoğunu bu sekmede geçirir.
+[Compose (Oluştur)](/wiki/Beatmap_Editor/Compose) sekmesi tüm [vuruş objelerinin](/wiki/Hit_object) ve oynayış ile alakalı diğer elementlerin oluşturulduğu yerdir. Bundan ötürü pek çok mapper zamanlarının pek çoğunu bu sekmede geçirir.
 
 ## Design (Dizayn)
 
-[Design (Dizayn)](/wiki/Beatmap_Editor/Design) sekmesi beatmaplere eklenen görsel efektler olan [storyboard](/wiki/Storyboards) oluşturmayı sağlar. Storyboardlar genellikle karmaşık efektler içerdiğinden ve çok fazla storyboard komutu kullanımı gerektirmesinden ötürü, mapperlar aynı zamanda dizayn sekmesine hiç girmeden doğrudan [storyboard komut dizisi](/wiki/Storyboard_Scripting) kullanmaktadırlar.
+[Design (Dizayn)](/wiki/Beatmap_Editor/Design) sekmesi beatmaplere eklenen görsel efektler olan [storyboard](/wiki/Storyboard) oluşturmayı sağlar. Storyboardlar genellikle karmaşık efektler içerdiğinden ve çok fazla storyboard komutu kullanımı gerektirmesinden ötürü, mapperlar aynı zamanda dizayn sekmesine hiç girmeden doğrudan [storyboard komut dizisi](/wiki/Storyboard/Scripting) kullanmaktadırlar.
 
 ## Timing (Zamanlama)
 

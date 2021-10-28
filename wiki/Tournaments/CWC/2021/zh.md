@@ -8,7 +8,7 @@ tags:
 
 ![CWC 2021 标志](/wiki/shared/news/banners/CWC2021.jpg)
 
-**osu!catch 2021 世界杯**（***CWC 2021***）是由 [osu!team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu!catch 世界杯的第 10 届。
+**osu!catch 2021 世界杯**（***CWC 2021***）是由 [osu!团队](/wiki/People/The_Team)举办的基于国家/地区间的官方锦标赛。这是 osu!catch 世界杯的第 10 届。
 
 *注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 5 月 11 日 18:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/CWC/2021?locale=en)为准。*
 
@@ -361,9 +361,9 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区�
    - 房间名称中提到的第一个队伍必须是红队，第二个队伍必须是蓝队。
 2. 每队队长可以选择禁用 **一张谱面**，本场比赛中无法选择被禁用的谱面。
 3. 谱面选择权将在两位队长之间交替。
-4. 两位队长必须在 #multiplayer 中使用 “!roll”。
-   - !roll 胜的队伍先选择谱面。
-   - !roll 输的队伍先禁用谱面。
+4. 两位队长必须在 `#multiplayer` 中使用 `!roll`。
+   - `!roll` 胜的队伍先选择谱面。
+   - `!roll` 输的队伍先禁用谱面。
 5. 接下来队长可以随意从图池中挑选谱面
    - 决胜局只能选择 Tiebreaker。
 6. 队伍将有 2 分钟的时间选择谱面，以及 2 分钟的准备时间。

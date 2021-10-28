@@ -17,11 +17,11 @@
 
 ## Compose
 
-[Compose](/wiki/Beatmap_Editor/Compose)は、全ての[ヒットオブジェクト](/wiki/Hit_Objects)やその他のゲームプレイ関連要素を作成する場所です。ほとんどのマッパーは、このタブに他のタブよりも多くの時間を費やします。
+[Compose](/wiki/Beatmap_Editor/Compose)は、全ての[ヒットオブジェクト](/wiki/Hit_object)やその他のゲームプレイ関連要素を作成する場所です。ほとんどのマッパーは、このタブに他のタブよりも多くの時間を費やします。
 
 ## Design
 
-[Design](/wiki/Beatmap_Editor/Design)は、ビートマップに付随する視覚効果である[ストーリーボード](/wiki/Storyboards)を作成する方法を提供します。ストーリーボードは複雑な効果を持つことが多く、多くのストーリーボードコマンドを使用する必要があるため、マッパーはデザインタブに入らずに[ストーリーボードスクリプト](/wiki/Storyboard_Scripting)を直接使用することもあります。
+[Design](/wiki/Beatmap_Editor/Design)は、ビートマップに付随する視覚効果である[ストーリーボード](/wiki/Storyboard)を作成する方法を提供します。ストーリーボードは複雑な効果を持つことが多く、多くのストーリーボードコマンドを使用する必要があるため、マッパーはデザインタブに入らずに[ストーリーボードスクリプト](/wiki/Storyboard/Scripting)を直接使用することもあります。
 
 ## Timing
 

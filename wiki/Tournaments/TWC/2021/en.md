@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2021 logo](/wiki/shared/news/banners/TWC_2021.jpg)
 
-The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eleventh installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eleventh instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu!taiko World Cup 2021** (***TWC 2021***) was a country-based osu!taiko 
 | --: | :-- |
 | Registration phase | 2021-02-04/2021-02-18 |
 | Live drawings | 2021-02-27 (14:00 UTC) |
-| Group Stage | 2021-03-06/2021-03-07 |
+| Group stage | 2021-03-06/2021-03-07 |
 | Round of 16 | 2021-03-13/2021-03-14 |
 | Quarterfinals | 2021-03-20/2021-03-21 |
 | Semifinals | 2021-03-27/2021-03-28 |
@@ -90,7 +90,9 @@ The osu!taiko World Cup 2021 was run by various community members.
 | ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [cheese salad](https://osu.ppy.sh/users/6349821), [R J](https://osu.ppy.sh/users/6490509), [3san](https://osu.ppy.sh/users/8050850), [ChurroChef](https://osu.ppy.sh/users/9258564) |
 | ![][flag_VN] | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [-BunZ-](https://osu.ppy.sh/users/7556673), [SaraSoul](https://osu.ppy.sh/users/13493346) |
 
-![TWC 2021 podium](img/podium.jpg)
+## Podium
+
+![](img/podium.jpg "TWC 2021 podium")
 
 ## Mappools
 
@@ -217,7 +219,7 @@ The osu!taiko World Cup 2021 was run by various community members.
 - Tiebreaker
   - **[ulko - REGGAETON BUT IT HAS AMEN BREAKS (D3kuu) \[TATSUJIN\]](https://osu.ppy.sh/beatmapsets/1013247#taiko/2120869)**
 
-### Group Stage
+### Group stage
 
 - NoMod
   - [Noisia - Anomaly (maziari1105) \[Insane\]](https://osu.ppy.sh/beatmapsets/1222464#taiko/2542673)
@@ -327,7 +329,7 @@ Sunday, 14 March 2021:
 | Portugal ![][flag_PT] | 0 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/78051556) |
 | **Italy** ![][flag_IT] | **6** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/78059865) |
 
-### Group Stage
+### Group stage
 
 Saturday, 6 March 2021:
 
@@ -386,8 +388,6 @@ Sunday, 7 March 2021:
 | **United Kingdom** ![][flag_GB] | **5** | 1 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/77455105) |
 | **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CR] Costa Rica | [#1](https://osu.ppy.sh/community/matches/77454888) |
 | **Japan** ![][flag_JP] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/77458452) |
-
----
 
 ## Ruleset
 
@@ -485,9 +485,9 @@ Sunday, 7 March 2021:
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain has to ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
 3. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
-4. Each captain must use "!roll" once in #multiplayer.
-   - The winner of the !roll starts picking the first beatmap of the match.
-   - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
+4. Each captain must use `!roll` once in `#multiplayer`.
+   - The winner of the `!roll` starts picking the first beatmap of the match.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 5. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 6. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
@@ -525,8 +525,8 @@ Sunday, 7 March 2021:
 7. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
@@ -543,8 +543,8 @@ Sunday, 7 March 2021:
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"

@@ -1,6 +1,6 @@
 # Interface skinning
 
-*See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)*
+*See also: [Skinning Interface Tutorial](/wiki/Skinning/Guides_and_important_threads) and [Interface](/wiki/Interface)*
 
 Interface skinning elements are used in multiple game modes or parts of the client's user interface.
 
@@ -1126,7 +1126,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All | ![Yes][true] | ![Yes][true] | (Varies) | Top Left | - |
+| All | ![Yes][true] | ![Yes][true] | (Varies) | Top Left | max height: 120px |
 
 Notes:
 
@@ -1878,7 +1878,7 @@ Notes:
 
 Notes:
 
-- This element is used in [multi](/wiki/multi) only.
+- This element is used in [multi](/wiki/Multi) only.
 
 ## Score entry
 

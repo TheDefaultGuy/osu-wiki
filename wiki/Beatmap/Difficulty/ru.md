@@ -23,7 +23,7 @@ tags:
 
 Сложность дополняет замапанную песню с помощью одного или нескольких наборов [хитсаундов](/wiki/Beatmapping/Hitsound), работающих как обратная связь. 
 
-[Визуальные элементы](/wiki/Beatmap), в отличие от паттернов и игровых объектов, служат для украшения карты; почти все из них можно отключить в [визуальных настройках](/wiki/Visual_Settings). Некоторые из таких элементов, например, [сториборды](/wiki/Storyboards) или [скины](/wiki/Skinning), относятся ко всей карте, но большинство меняются от одной сложности к другой (к примеру, [киаи](/wiki/Kiai_time) и [цвета комбо](/wiki/Glossary/Combo_colour)).
+[Визуальные элементы](/wiki/Beatmap), в отличие от паттернов и игровых объектов, служат для украшения карты; почти все из них можно отключить в [визуальных настройках](/wiki/Visual_Settings). Некоторые из таких элементов, например, [сториборды](/wiki/Storyboard) или [скины](/wiki/Skinning), относятся ко всей карте, но большинство меняются от одной сложности к другой (к примеру, [киаи](/wiki/Kiai_time) и [цвета комбо](/wiki/Glossary/Combo_colour)).
 
 ## Уровни сложности
 
@@ -46,7 +46,7 @@ tags:
 - ![](/wiki/shared/diff/normal-t.png) Futsuu
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
-- ![](/wiki/shared/diff/expert-t.png) Ura Oni (иногда называется "Inner Oni")
+- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
 - ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
@@ -69,15 +69,17 @@ tags:
 
 ## Уровень сложности по звёздам
 
+Начиная с 27 июля 2021 года, сайт osu! автоматически помечает сложности разными цветами, в зависимости от числа звёзд сложности:
+
 ![Уровень сложности по звёздам](img/SR-range.png)
 
-Картам, опубликованным на сайте, в зависимости от числа их звёзд присваиваются разные значки:
+В некоторых случаях (например, в диагностике от [AIMod](/wiki/Beatmap_Editor/AiMod)) сложности делятся на шесть групп:
 
 - ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
 - ![](/wiki/shared/diff/hard-o.png) Hard: 2.7★–3.99★
 - ![](/wiki/shared/diff/insane-o.png) Insane: 4.0★–5.29★
 - ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-o.png) Expert+: >6.5★
+- ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ и выше
 
 Сложность большинства карт соответствует их иконкам, но в некоторых случаях эта закономерность нарушается, поэтому [критерии ранкинга](/wiki/Ranking_Criteria) содержат более точные правила для определения сложности карт.
