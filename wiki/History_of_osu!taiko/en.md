@@ -127,9 +127,22 @@ However, [OnosakiHito](https://osu.ppy.sh/users/290128) himself bubbled [Galaxy 
 
 ### Taiko Nominator Association
 
-Around the time all 3 maps were going through the ranking process, the [Taiko Nominator Association](https://osu.ppy.sh/community/forums/topics/357613) (*TNA*) was founded on the 15th of August, 2015. The TNA was essentially a group of Taiko Nominators that shared one big unified modding queue. This was done in hopes of making the ranking process for Taiko a lot faster and easier.
+Around the time all 3 maps were going through the ranking process, the [Taiko Nominator Association](https://osu.ppy.sh/community/forums/topics/357613) (*TNA*) was founded on the 15th of August, 2015. The TNA was essentially a group of Taiko Nominators that shared one big unified modding queue. This was done in hopes of making the ranking process for Taiko a lot faster and easier. However, the TNA had some drawbacks. Nominators that were part of the TNA could not take requests outside of the TNA queue, and only a few maps were selected by the Nominators. This lead to an imbalance of pending maps and mapes being ranked. Because of this, the TNA would later be disbanded.
 
 ![](/wiki/History_of_osu!taiko/img/TMT.png "Taiko Nominator Association Banner")
+
+The [loved section was added](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love) on the 17th of October 2016, and a few days later the first Taiko map would be loved, [Shiawase ni nareru kakushi komando ga aru rashii](https://osu.ppy.sh/beatmapsets/219733#taiko/514465) by the mapper [Firce777](https://osu.ppy.sh/users/274072).
+
+On the 25th of May, 2017, Taiko would receive it's official mascot, [Mocha](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here). 
+![](/wiki/History_of_osu!taiko/img/12.jpg "Mocha's original design that was submitted for the art contest.")
+
+### Easier Taiko BN Tests
+
+Around this time, Taiko Beatmap Nominator tests were made easier. These tests were actualy very hard, so much so that before the tests were made easier, 2 out of 15 participants passed, but after they were made easier, 8 out of 19 passed. This proved to be beneficial since there were very few Nominators at the time. More Nominators meant more maps being ranked as well as a wider variety of songs and mapping styles.
+
+### Taiko Ranking Criteria Rework
+
+On the 27th of September 2017, the Taiko Ranking Criteria received its first major rework since it was first written. [Raiden](https://osu.ppy.sh/users/2239480) along with many other members of the community would create [a draft](https://osu.ppy.sh/community/forums/topics/518637?n=1) as a proposal and then further refine it with input from the general community until it was eventually adapted and made official. This reworked Ranking Criteria is the one used today. 
 
 ## 2019-Present: Modern Age
 
