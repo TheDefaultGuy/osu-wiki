@@ -135,6 +135,12 @@ Around the time all 3 maps were going through the ranking process, the [Taiko No
 
 The Modern Age starts off with the restructure of the QAT to the [Nomination Assessment Team](wiki/People/The_Team/Nomination_Assessment_Team/en.md) (*NAT*) on the 5th of May, 2019.
 
+On the 18th of January, 2020, the NAT held a meeting discussing a system Taiko was using for dealing with applications of previous Beatmap Nominators who wanted to return. The system Taiko had in place basically allowed previous Beatmap Nominators to rejoin much easier if they left on good terms. This system proved successful and was adopted by the other gamemodes.
+
+On the 16th of September, 2020, the [new Taiko Star Rating System](https://osu.ppy.sh/home/news/2020-09-15-changes-to-osutaiko-star-rating ) was finally implemented.
+
+On the 30th of November, 2020, Hybrid maps were required to have 2 BNs per gamemode in order to be qualified. This means that if a map had difficulties from all 4 game modes, then it would need 8 Beatmap Nominators in order to be qualified. This was a stark contrast to the previous system where hybrids only needed 2 Nominators. Because of this new system, the ranked section did not receive a Hybrid map for months.
+
 ## Important Individuals
 
 A list of the most important and influential people throughout osu!taiko's history along with a brief explanation of their contributions.
@@ -156,7 +162,7 @@ A list of the most important and influential people throughout osu!taiko's histo
 | [KanaRin](https://osu.ppy.sh/users/310747) | |
 | [karterfreak](https://osu.ppy.sh/users/1031958) | |
 | [aabc271](https://osu.ppy.sh/users/155707) | |
-| [Sayaka-](https://osu.ppy.sh/users/398275) | |
+| [Sayaka-](https://osu.ppy.sh/users/398275) | Creator of the first ranked 7* and 8* Taiko difficulties. |
 | [Raiden](https://osu.ppy.sh/users/2239480) | Responsible for the rework of the Taiko Ranking Criteria. |
 | [DakeDekaane](https://osu.ppy.sh/users/1425253) | |
 | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | |
@@ -165,3 +171,5 @@ A list of the most important and influential people throughout osu!taiko's histo
 | [Aloda](https://osu.ppy.sh/users/1190127) | |
 | [Nepuri](https://osu.ppy.sh/users/6637817) | |
 | [Tyistiana](https://osu.ppy.sh/users/1421452) | |
+| [Capu](https://osu.ppy.sh/users/2474015) | |
+| [radar](https://osu.ppy.sh/users/7131099) | Creator of the osu!taiko Mapping & Modding hub Discord Server, osu!taiko mentorship and monthly beatmapping contest organizer, as well as currently being a NAT. |
