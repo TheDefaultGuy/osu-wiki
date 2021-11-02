@@ -26,3 +26,4 @@ Basically everyone that helped out with the gathering of information, answering 
 - [Sayaka-](https://osu.ppy.sh/users/398275)
 - [lepidopodus](https://osu.ppy.sh/users/194807)
 - [radar](https://osu.ppy.sh/users/7131099)
+- [Capu](https://osu.ppy.sh/users/2474015)
