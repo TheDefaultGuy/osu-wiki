@@ -1,8 +1,8 @@
 # Comment utiliser l'assistant de décalage
 
-*Voir également : [Assistant de décalage](/wiki/Options/Offset_Wizard) et [Décalage universel](/wiki/Universal_offset)*
+*Voir également : [Assistant de décalage](/wiki/Client/Options/Offset_Wizard) et [Décalage universel](/wiki/Client/Options/Universal_offset)*
 
-Si les [hitsounds](/wiki/Beatmapping/Hitsound) ne sont pas synchronisés avec la musique dans chaque beatmap que vous jouez, vous devrez probablement modifier votre [décalage universel](/wiki/Universal_offset). La façon la plus simple de le faire est d'utiliser l'**assistant de décalage**.
+Si les [hitsounds](/wiki/Beatmapping/Hitsound) ne sont pas synchronisés avec la musique dans chaque beatmap que vous jouez, vous devrez probablement modifier votre [décalage universel](/wiki/Client/Options/Universal_offset). La façon la plus simple de le faire est d'utiliser l'**assistant de décalage**.
 
 Suivez les étapes suivantes pour régler votre décalage universel à l'aide de l'assistant de décalage.
 
@@ -16,7 +16,7 @@ L'assistant de décalage s'ouvre alors, jouant la musique qui était précédemm
 
 ## Calibrage du décalage universel
 
-1. Écoutez attentivement la chanson et le métronome qui jouent ensemble.
+1. Écoutez attentivement la musique et le métronome qui jouent ensemble.
 2. Commencez à ajuster le décalage universel vers le haut ou vers le bas, en utilisant les touches fléchées correspondantes, ou la molette de la souris.
    - Si les hitsounds semblent se jouer trop tôt lorsque vous jouez, vous devrez *diminuer* votre décalage universel.
    - Si les hitsounds semblent se jouer trop tard lorsque vous jouez, vous devrez *augmenter* votre décalage universel.

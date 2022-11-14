@@ -29,7 +29,7 @@ BBCode tags, which are supported on the osu! website, are listed and described i
 [b]text[/b]
 ```
 
-The `[b]` tag is used to strongly emphasize text through the use of bolding. BBCode bolding does not affect the font size.
+The `[b]` tag is used to strongly emphasise text through the use of bolding. BBCode bolding does not affect the font size.
 
 Toolbar button: ![Bold button](img/bold.png "Bold")
 
@@ -39,7 +39,7 @@ Toolbar button: ![Bold button](img/bold.png "Bold")
 [i]text[/i]
 ```
 
-The `[i]` tag is used to lightly emphasize text by slanting the text forward (i.e. italicizing).
+The `[i]` tag is used to lightly emphasise text by slanting the text forward (i.e. italicising).
 
 Toolbar button: ![Italic button](img/italic.png "Italic")
 
@@ -49,7 +49,7 @@ Toolbar button: ![Italic button](img/italic.png "Italic")
 [u]text[/u]
 ```
 
-The `[u]` tag is used to emphasize text by drawing a horizontal line underneath said text (i.e. underlining). The horizontal line that is drawn will be affected by other tags like bolding and italicizing.
+The `[u]` tag is used to emphasise text by drawing a horizontal line underneath said text (i.e. underlining). The horizontal line that is drawn will be affected by other tags like bolding and italicising.
 
 ### Strikethrough
 
@@ -81,7 +81,7 @@ The aforementioned argument does not take quotation marks (`"`), and does not ha
 [size=NUMBER]text[/size]
 ```
 
-The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! website: 50, 85, 100, and 150. The sizes are internally referred to as "tiny," "small," "normal," and "large" respectively.
+The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! website: 50, 85, 100, and 150. The sizes are internally referred to as "tiny", "small", "normal", and "large" respectively.
 
 The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number, that is not one of the supported four, is inputted, the text will revert to the default size.
 
@@ -95,7 +95,7 @@ Toolbar button: ![Font size options](img/font-size.png "Font size")
 [spoiler]text[/spoiler]
 ```
 
-The `[spoiler]` tag is used to cover up sensitive information with a solid black foreground that reveals the text underneath it upon being highlighted. If stacked with the [`[color]`](#color) tag, the black cover will not be affected. However, the text under the black cover will still be coloured, whether it is readable or not.
+The `[spoiler]` tag is used to cover up sensitive information with a solid black foreground that reveals the text underneath it upon being highlighted. If stacked with the [`[color]`](#colour) tag, the black cover will not be affected. However, the text under the black cover will still be coloured, whether it is readable or not.
 
 The tag is most commonly used to prevent spoiling critical/sensitive information regarding a TV show, movie, or other media. It is also sometimes used for comedic effect or emphasis.
 
@@ -151,7 +151,7 @@ text
 [/code]
 ```
 
-The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformatted text*). On the osu! website, the `[code]` tag will format text in a monospace font inside of a semi-transparent gray box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or source code into something else.
+The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformatted text*). On the osu! website, the `[code]` tag will format text in a monospace font inside of a semi-transparent grey box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or source code into something else.
 
 Within the osu! forums, code blocks are most often used to post source code for a [storyboard](/wiki/Storyboard), or in tutorials that require showing the syntax for tags, commands, or source code.
 
@@ -187,7 +187,7 @@ The `[profile]` tag is used to link to a user's osu! profile page by using their
 
 *Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
 
-If specified through their user ID, the text between the open and closed tags will not be parsed and will instead display as the user's current username. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
+When specifying users only by their user IDs, a placeholder text is required between the open and closed tags. Doing so will display the username on the actual page, not the placeholder text. When specifying users only by their username, the link will not function once they change their username.
 
 ### Formatted lists
 
@@ -199,13 +199,23 @@ If specified through their user ID, the text between the open and closed tags wi
 [/list]
 ```
 
-The `[list]` tag is used to automatically format numerous types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
+The `[list]` tag is used to automatically format two different types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
 
-Other list styles can be formatted by specifying the `TYPE` argument as `1`, `a`, `A`, `i`, or `I`, which will format lists as numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase) respectively.
+If the `TYPE` argument is specified (the actual value doesn't matter), it will create a numbered list.
 
 *Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
 
 Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img/list-numbered.png "Numbered list")
+
+### Email
+
+```
+[email=ADDRESS]text[/email]
+```
+
+The `[email]` tag creates a clickable hyperlink, which opens a new email in the default mail program with the address field pre-populated.
+
+In order to create a link, two arguments need to be specified: the `ADDRESS` argument needs to be a valid email address, while `text` is the displayed text that serves as a hyperlink. If the `text` argument is not defined, the hyperlink will not be created correctly.
 
 ### Images
 

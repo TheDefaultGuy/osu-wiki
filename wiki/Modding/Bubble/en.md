@@ -21,11 +21,11 @@ In the modern [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure), the 
 
 *See also: [Mapping and modding timeline](/wiki/Mapping_and_Modding_Timeline)*
 
-Bubbles were introduced by ![][flag_AU] [peppy](/wiki/People/peppy) on October 29, 2007, for "beatmaps that are being considered for ranked play (pending further moderator's feedback)". Setting a beatmap thread's icon to a bubble was a way for BAT members to indicate that the beatmap was of good quality and had followed the [ranking criteria](/wiki/Ranking_Criteria)<!-- internal reference: https://osu.ppy.sh/community/forums/topics/619 -->.
+Bubbles were introduced by ::{ flag=AU }:: [peppy](/wiki/People/peppy) on October 29, 2007, for "beatmaps that are being considered for ranked play (pending further moderator's feedback)". Setting a beatmap thread's icon to a bubble was a way for BAT members to indicate that the beatmap was of good quality and had followed the [ranking criteria](/wiki/Ranking_Criteria)<!-- internal reference: https://osu.ppy.sh/community/forums/topics/619 -->.
 
 On October 3, 2010, the MAT received the permissions to use the bubble icon, alongside the BAT<!-- internal reference: https://osu.ppy.sh/community/forums/topics/38403 -->. This essentially deprecated the [proto-bubbles](/wiki/Modding/Proto-bubble), and both teams had been primarily using regular bubbles since.
 
-After the [beatmap discussion system](/wiki/Beatmap_Discussion) was fully implemented and became the main interface for modding in November 2017, the forum-based beatmap management controls were phased out, with bubbles being naturally replaced by nominations<!-- TODO: nomination article link -->.
+After the [beatmap discussion system](/wiki/Beatmap_discussion) was fully implemented and became the main interface for modding in November 2017, the forum-based beatmap management controls were phased out, with bubbles being naturally replaced by nominations<!-- TODO: nomination article link -->.
 
 ## Mechanics
 
@@ -52,6 +52,4 @@ In both cases, the beatmap thread's icon would be set to a popped bubble (![Popp
 
 ## See also
 
-- *[the end of bubbles](https://www.youtube.com/watch?v=9Za-1_hxkxE)*, an episode of the [osu!mapping](/wiki/osu!mapping) YouTube series
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+- *[the end of bubbles](https://www.youtube.com/watch?v=9Za-1_hxkxE)*, an episode of the [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube series

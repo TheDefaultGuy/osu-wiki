@@ -40,9 +40,9 @@ While branching is technically optional, it is [highly recommended for a couple 
 
 ## Editing
 
-1. In the folder you cloned the repo into, navigate to the file you want to edit. The articles are organized by the folder names being the article names and the `.md` files being the locales.
-2. Once you find the correct file, open it using your favorite text editor.
-3. You can now make your changes. When making changes, follow the [Article Styling Criteria](/wiki/Article_styling_criteria) as closely as you can.
+1. In the folder you cloned the repo into, navigate to the file you want to edit. The articles are organised by the folder names being the article names and the `.md` files being the locales.
+2. Once you find the correct file, open it using your favourite text editor.
+3. You can now make your changes. Take a moment to also go through the [self-check](/wiki/osu!_wiki/Contribution_guide#self-check).
 4. Continue to [Committing and pushing](#committing-and-pushing).
 
 ### Moving existing files
@@ -52,9 +52,9 @@ While branching is technically optional, it is [highly recommended for a couple 
 
 ### Creating new files
 
-*Caution: If you are going to create article files using Windows Explorer, make sure the `File name extensions` option is enabled.* See [How to show or hide file name extensions in Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) for instructions.
+*Caution: If you are going to create article files using Windows Explorer, make sure the `File name extensions` option is enabled.* See [Common file name extensions in Windows](https://support.microsoft.com/en-us/windows/common-file-name-extensions-in-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01) for instructions.
 
-1. Use Windows Explorer, your favorite image editor, and/or your favorite text editor, to create new files. If you are creating new articles or translations, rename the file to follow the [Locales in the Article Styling Criteria](/wiki/Article_styling_criteria/Formatting#locales).
+1. Use Windows Explorer, your favourite image editor, and/or your favourite text editor, to create new files. If you are creating new articles or translations, rename the file to follow the [Locales in the Article Styling Criteria](/wiki/Article_styling_criteria/Formatting#locales).
 2. Continue to [Committing and pushing](#committing-and-pushing).
 
 ### Deleting files
@@ -71,7 +71,7 @@ While branching is technically optional, it is [highly recommended for a couple 
 2. By default, GitHub Desktop will automatically select all of your changes.
 3. It is best to separate each "big" action as a single commit.
 
-For example, as pictured above, [pippi](/wiki/Mascots#-pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and marked the translations as outdated. From this, we can have two commits, one for the changes that affected the `en.md` file, and one for marking the translations as outdated.
+For example, as pictured above, [pippi](/wiki/Mascots#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and marked the translations as outdated. From this, we can have two commits, one for the changes that affected the `en.md` file, and one for marking the translations as outdated.
 
 4. Select the files that are going to be committed.
 5. Enter the commit summary. This has a 72 character limit and **must be in English**.
@@ -87,4 +87,4 @@ For example, as pictured above, [pippi](/wiki/Mascots#-pippi) had added an image
 
   ![](img/github-desktop-push.jpg)
 
-9. Continue to [Finishing](/wiki/osu!_wiki/Contribution_guide#finishing) for the last piece of information regarding your pull request and changes.
+9. Continue to [Review](/wiki/osu!_wiki/Contribution_guide#review) for the last piece of information regarding your pull request and changes.

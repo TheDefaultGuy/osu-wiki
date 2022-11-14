@@ -16,9 +16,9 @@ En bref, les tablettes sont un dispositif optionnel qui vous permet de jouer d'u
 
 ### osu!store
 
-*Remarque : **Le osu!store ne vend plus de osu!tablets.*** Pour l'instant, [peppy a tweeté](https://twitter.com/ppy/status/846190638873767936) que si vous voulez essayer cette méthode de saisie, vous pouvez chercher d'autres alternatives.
+*Remarque : **L'osu!store ne vend plus d'osu!tablets.*** Pour l'instant, [peppy a tweeté](https://twitter.com/ppy/status/846190638873767936) que si vous voulez essayer cette méthode de saisie, vous pouvez chercher d'autres alternatives.
 
-Dans le but d'essayer de permettre aux joueurs d'essayer la méthode de saisie sur tablette sans faire un trou dans leur portefeuille, le osu!store a un jour proposé la tablette osu!. Elle était fabriquée par Huion et conçue par flyte. La première version en 2013 présentait la osu!tablet (blanche), un stylo avec une plume, 3 plumes remplaçables, mais nécessitait une pile AA pour le stylo (qui était incluse mais alourdissait le stylo). La deuxième version en 2016 présentait l'osu!tablet (noir), un stylo avec une plume, 3 plumes remplaçables, mais le stylo devait être chargé via USB (inclus).
+Dans le but d'essayer de permettre aux joueurs d'essayer la méthode de saisie sur tablette sans faire un trou dans leur portefeuille, l'osu!store a un jour proposé la tablette osu!. Elle était fabriquée par Huion et conçue par flyte. La première version en 2013 présentait la osu!tablet (blanche), un stylo avec une plume, 3 plumes remplaçables, mais nécessitait une pile AA pour le stylo (qui était incluse mais alourdissait le stylo). La deuxième version en 2016 présentait l'osu!tablet (noir), un stylo avec une plume, 3 plumes remplaçables, mais le stylo devait être chargé via USB (inclus).
 
 ![](img/osu!tabletv1.jpg "v1 de la osu!tablet \(2013\)")
 
@@ -50,7 +50,7 @@ Au moment de la rédaction de ce guide, il existe trois versions de la Bamboo, t
 
 ![](img/gen3.jpg "Bamboo troisième génération (Connect, Capture, Create - Connect présenté)")
 
-Il est préférable d'éviter l'une ou l'autre des tablettes Bamboo Touch, car elles ne sont pas dotées d'un stylet et ne sont que des trackpads multitouch pour votre ordinateur. Franchement, [Apple à fait mieux](https://apple.com/magictrackpad).
+Il est préférable d'éviter l'une ou l'autre des tablettes Bamboo Touch, car elles ne sont pas dotées d'un stylet et ne sont que des trackpads multitouch pour votre ordinateur. Franchement, [Apple à fait mieux](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad).
 
 Les autres modèles Bamboo sont disponibles en deux tailles, en principe petite et grande. Pour la deuxième génération, les Bamboo Touch, Pen, et Pen and Touch étaient les "petites", tandis que les Fun et Craft étaient les "grandes". Pour la troisième génération, les modèles Connect et Capture sont les "petits", tandis que le modèle Create est le "grand".
 
@@ -81,7 +81,7 @@ Voici quelques liens pour acheter les derniers modèles :
 - [Amazon - One by Wacom Tablet (small version) (CTL472)](https://www.amazon.com/dp/B07S1RR3FR)
 - [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://a.co/fCXqteP)
 - [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://a.co/b4GpKXt)
-- [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
+- [Huion - HUION H430P (4096)](https://store.huion.com/products/inspiroy-h430p)
   - [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](https://a.co/6uDGhXL)
 
 ## Conclusion

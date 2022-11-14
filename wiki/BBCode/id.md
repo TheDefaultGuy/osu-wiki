@@ -1,3 +1,8 @@
+---
+outdated_since: 3cfbc4e75e17092cf181c6f1235bfb105666003d
+outdated_translation: true
+---
+
 # BBCode
 
 BBCode adalah [sintaks markup](https://en.wikipedia.org/wiki/Markup_language) yang digunakan pada forum osu! dan sebagian besar forum di Internet. Hampir keseluruhan forum osu! telah mendukung rich text formatting, yang terdiri dari tag-tag yang mengelilingi teks untuk menandakan pemformatan, atribut, embed, dan lainnya. BBCode telah digunakan di berbagai area di situs web osu!, seperti postingan forum, signature, user page, dan deskripsi beatmap.
@@ -49,7 +54,7 @@ Tombol pada toolbar: ![Tombol Italic](img/italic.png "Italic")
 [u]teks[/u]
 ```
 
-Tag `[u]` atau *garis bawah* digunakan untuk penekanan teks dengan garis horizontal di bawah teks (yaitu menggaris bawahi). Garis horizontal dapat dipengaruhi oleh tag lain seperti penggunaan tag [huruf tebal](#bold) dan penggunaan tag [huruf miring](#italic)`.
+Tag `[u]` atau *garis bawah* digunakan untuk penekanan teks dengan garis horizontal di bawah teks (yaitu menggaris bawahi). Garis horizontal dapat dipengaruhi oleh tag lain seperti penggunaan tag [huruf tebal](#bold) dan penggunaan tag [huruf miring](#italic).
 
 ### Strikethrough
 
@@ -95,7 +100,7 @@ Tombol pada toolbar: ![Pengaturan Ukuran Huruf](img/font-size-id.png "Font size"
 
 *Jangan disamakan dengan [Spoilerbox](#spoilerbox).*
 
-Tag `[spoiler]` atau *penutup teks* digunakan untuk menutupi informasi sensitif dengan latar depan hitam pekat yang menampilkan teks di belakangnya saat diseleksi. Jika ditumpuk dengan tag [`[color]`](#color), penutup berwarna hitam tidak akan berpengaruh. Namun, teks di belakang penutup hitam tersebut tetap berwarna, baik dapat dibaca atau tidak.
+Tag `[spoiler]` atau *penutup teks* digunakan untuk menutupi informasi sensitif dengan latar depan hitam pekat yang menampilkan teks di belakangnya saat diseleksi. Jika ditumpuk dengan tag [`[color]`](#colour), penutup berwarna hitam tidak akan berpengaruh. Namun, teks di belakang penutup hitam tersebut tetap berwarna, baik dapat dibaca atau tidak.
 
 Tag paling sering digunakan untuk mencegah pengumbaran informasi kritis/sensitif tentang acara TV, film, atau media lainnya. Seringkali juga digunakan untuk efek komedi atau penekanan. 
 

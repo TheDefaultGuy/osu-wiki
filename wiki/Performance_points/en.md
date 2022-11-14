@@ -10,11 +10,9 @@ It aims to shift the focus of skill progression from the amount of time played t
 
 The first initial implementation of such a score was revealed to the public during April 2012 and was known only as the mysterious *'???'* project, the enigmatic system eventually received its full name later on in the month.
 
-Known thereafter as "pp" (an abbreviation for "performance points"), this new system sought to change the previous standard of player performance from simply total [score](/wiki/Score) to something that accurately reflected skill. The new system was met to widespread acclaim among the player base at the time.
+Known thereafter as "pp" (an abbreviation for "performance points"), this new system sought to change the previous standard of player performance from simply total [score](/wiki/Gameplay/Score) to something that accurately reflected skill. The new system was met to widespread acclaim among the player base at the time.
 
 Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmap/Category#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
-
-*Note: ppv1, the original build of the Performance Points system, also had a changelog, which can be viewed from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).*
 
 It continued to exist in this capacity for more than a year of service until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/The_Team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on January 27, 2014, therefore renaming the old system to *[ppv1](/wiki/Performance_points/ppv1)*
 
@@ -26,7 +24,7 @@ On January 16, 2021, changes were made to the ppv2 system that aimed to more acc
 - Adjust the rate of pp loss from misses to be more forgiving on longer maps with higher combo
 - Punish lower [accuracy](/wiki/Gameplay/Accuracy) plays with less pp gain
 
-ppv2 is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
+ppv2 is currently in active service, with updates in the form of news posts published by the [Performance Points Committee](/wiki/People/Performance_Points_Committee) whenever new changes are deployed.
 
 ## Calculation
 
@@ -97,7 +95,7 @@ Consider the following tips:
 - Play efficiently and figure out which play style works best for you.
 - Focus on getting a handful of exceptional scores instead of "farming" hundreds of just okay scores.<!-- "farming" will need to be linked once a stub or section is created -->
 - Aim to improve your accuracy. Even 1% makes a massive difference.
-- Aim for higher combos. Full combos (FC) or [SS](/wiki/Grade) scores give tremendous amounts of score.
+- Aim for higher combos. Full combos (FC) or [SS](/wiki/Gameplay/Grade) scores give tremendous amounts of score.
 
 ### Why didn't I gain the full amount of pp from a map I played?
 

@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 421d351504f7f02cbe916b63fc6120b24fce0c3a
 tags:
   - bot accounts
   - chat bot
@@ -13,13 +15,13 @@ no_native_review: true
 
 # 机器人账号
 
-**机器人账号** 是由自动化服务而非人类控制的账号，在网站上，它们有一个白色的用户组标识 `BOT`，并且个人资料页中只有 `me!` 部分可见。机器人账号通常用做聊天机器人，并通过[多人游戏](/wiki/Multi)大厅的聊天频道或私聊提供多样化的功能。
+**机器人账号** 是由自动化服务而非人类控制的账号，在网站上，它们有一个白色的用户组标识 `BOT`，并且个人资料页中只有 `me!` 部分可见。机器人账号通常用做聊天机器人，并通过[多人游戏](/wiki/Client/Interface/Multiplayer)大厅的聊天频道或私聊提供多样化的功能。
 
 机器人账号仅能通过[申请流程](#创建机器人帐号)创建，任何试图通过玩家注册流程为机器人创建账号的行为都被视为违反[行为准则](/wiki/Rules#社区规定)中关于多账号的规定。
 
 ## 机器人账号的优待
 
-个人账号与机器人账号的主要差异为对[聊天](/wiki/Chat_Console)速率的限制不同，机器人账号拥有更高的限额，以便与更多用户交互而不至触发[禁言](/wiki/Silence)：
+个人账号与机器人账号的主要差异为对[聊天](/wiki/Client/Interface/Chat_console)速率的限制不同，机器人账号拥有更高的限额，以便与更多用户交互而不至触发[禁言](/wiki/Silence)：
 
 - 个人账号每 5 秒可发送 10 条消息
 - 机器人账号每 60 秒可发送 300 条消息
@@ -60,7 +62,4 @@ no_native_review: true
 ## 小细节
 
 - `BOT` 用户组标识代表账号的主用户组为 `Chat Bots`（用户组 #29），该用户组的成员并未公开列出。
-- 一些个人账号属于该用户组，是由于号主不想使用机器人账号，或未申请独立的机器人账号，例如 ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) 和 ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454)。该模式现已不再支持，机器人账号必须使用给定的专用账号。
-
-[flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_FR]: /wiki/shared/flag/FR.gif "法国"
+- 一些个人账号属于该用户组，是由于号主不想使用机器人账号，或未申请独立的机器人账号，例如 ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) 和 ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)。该模式现已不再支持，机器人账号必须使用给定的专用账号。
