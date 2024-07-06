@@ -4,7 +4,7 @@ The history of osu!taiko compiled for the osu! wiki.
 
 ## Contributing
 
-If you want to contribute and help out, there are a few ways you could do so:
+Right now, this is mostly documenting the mapping side of Taiko history. But the game modes needs players to play them, so their history shouldn't be ignored. Unfortunately, my area of expertise is within mapping and thus I have little knowledge with the actual playerbase of taiko. If you yourself are a veteran player or have knowledge about this side of history, please contact me! If not, and you stil want to contribute and help out, there are a few ways you could do so:
 
 - Check grammar and spelling.
 - Corroborate the information and making sure dates and names are correct.
