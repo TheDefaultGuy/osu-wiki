@@ -160,22 +160,22 @@ A list of the most important and influential people throughout osu!taiko's histo
 
 | Name | Contributions |
 | :-- | :-- |
-| [LuigiHann](https://osu.ppy.sh/users/1079) | Proposed the addition of a Taiko game mode and created skin assests for Taiko and other modes. |
-| [Kharl](https://osu.ppy.sh/users/452) | Created the first ranked Taiko difficulty. |
-| [mattyu007](https://osu.ppy.sh/users/4934) | The first BAT that was knowledgable in Taiko. |
-| [Alace](https://osu.ppy.sh/users/25993) | One of the earliest Taiko-capable BATs and manager of the first Taiko World Cup. |
-| [aquabluu](https://osu.ppy.sh/users/6537) | One of the earliest members of the Taiko community, mapper of Taiko no Tatsujin music and creator of the Taiko Trials. |
-| [lepidopodus](https://osu.ppy.sh/users/194807) | One of the managers of the first Taiko World Cup and ranked the first Taiko-only mapset. |
-| [arken1015](https://osu.ppy.sh/users/113646) | One of the earliest Taiko Mappers, Taiko MAT, and one of the managers of the first Taiko World Cup. |
-| [wmfchris](https://osu.ppy.sh/users/7401) |  One of the earliest Taiko Mappers,  Taiko-capable BAT and manager of the first Taiko World Cup. |
-| [MMzz](https://osu.ppy.sh/users/128993) | One of the Taiko-capable MATs and BATs. |
-| [OnosakiHito](https://osu.ppy.sh/users/290128) | Overall leading figure of the community and responsible for the creation of the #taiko channel, the Taiko BAT, the Taiko Ranking Criteria, the TNA and the TBT project. |
-| [kanpakyin](https://osu.ppy.sh/users/394326) | |
-| [NatsumeRin](https://osu.ppy.sh/users/151679) | |
-| [KanaRin](https://osu.ppy.sh/users/310747) | |
-| [karterfreak](https://osu.ppy.sh/users/1031958) | |
+| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Proposed the addition of a Taiko game mode and created skin assests for Taiko and other modes. |
+| ::{ flag=TH }:: [Kharl](https://osu.ppy.sh/users/452) | Created the first ranked Taiko difficulty. |
+| ::{ flag=CA }:: [mattyu007](https://osu.ppy.sh/users/4934) | The first BAT that was knowledgable in Taiko. |
+| ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993) | One of the earliest Taiko-capable BATs and manager of the first Taiko World Cup. |
+| ::{ flag=MY }:: [aquabluu](https://osu.ppy.sh/users/6537) | One of the earliest members of the Taiko community, mapper of Taiko no Tatsujin music and creator of the Taiko Trials. |
+| ::{ flag=KR }:: [lepidopodus](https://osu.ppy.sh/users/194807) | One of the managers of the first Taiko World Cup and ranked the first Taiko-only mapset. |
+| ::{ flag=KR }:: [arken1015](https://osu.ppy.sh/users/113646) | One of the earliest Taiko Mappers, Taiko MAT, and one of the managers of the first Taiko World Cup. |
+| ::{ flag=HK }:: [wmfchris](https://osu.ppy.sh/users/7401) |  One of the earliest Taiko Mappers,  Taiko-capable BAT and manager of the first Taiko World Cup. |
+| ::{ flag=US }:: [MMzz](https://osu.ppy.sh/users/128993) | One of the Taiko-capable MATs and BATs. |
+| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Overall leading figure of the community and responsible for the creation of the #taiko channel, the Taiko BAT, the Taiko Ranking Criteria, the TNA and the TBT project. |
+| ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | |
+| ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) | |
+| ::{ flag=HK }:: [KanaRin](https://osu.ppy.sh/users/310747) | |
+| ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | |
 | [aabc271](https://osu.ppy.sh/users/155707) | |
-| [Sayaka-](https://osu.ppy.sh/users/398275) | Creator of the first ranked 7* and 8* Taiko difficulties. |
+| ::{ flag=HK }:: [Sayaka-](https://osu.ppy.sh/users/398275) | Creator of the first ranked 7* and 8* Taiko difficulties. |
 | [Raiden](https://osu.ppy.sh/users/2239480) | Responsible for the rework of the Taiko Ranking Criteria. |
 | [DakeDekaane](https://osu.ppy.sh/users/1425253) | |
 | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | |
@@ -186,3 +186,4 @@ A list of the most important and influential people throughout osu!taiko's histo
 | [Tyistiana](https://osu.ppy.sh/users/1421452) | |
 | [Capu](https://osu.ppy.sh/users/2474015) | |
 | [radar](https://osu.ppy.sh/users/7131099) | Creator of the osu!taiko Mapping & Modding hub Discord Server, osu!taiko mentorship and monthly beatmapping contest organizer, as well as currently being a NAT. |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | |
