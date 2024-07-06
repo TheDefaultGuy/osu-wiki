@@ -1,3 +1,6 @@
+outdated_since: a8383bfa1e96690b7f254a39672b15781e148634
+outdated_translation: true
+
 separator: ，
 alumni:
   roles:
@@ -20,13 +23,14 @@ gmt:
     support: 技术支持团队
     tournaments: 锦标赛管理员
     wiki: wiki 管理员
-    mapping: 作图、摸图社群管理员
+    mapping: 作图摸图社群管理员
+    skinning: 自定义皮肤社区管理员
+    leadership: 团队领导
 nat:
-  areas:
-    communication: 沟通
+  subgroups:
+    structural: 组织
     evaluation: 评估
-    moderation: 管理
-    structural: 结构
+    leadership: 领导
 languages:
   partial: 一部分<language>
   zh: 汉语

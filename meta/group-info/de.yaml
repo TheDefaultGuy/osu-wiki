@@ -1,3 +1,6 @@
+outdated_since: a8383bfa1e96690b7f254a39672b15781e148634
+outdated_translation: true
+
 separator: ", "
 alumni:
   roles:
@@ -21,12 +24,13 @@ gmt:
     tournaments: Verwaltung von Turnieren
     wiki: Wiki-Administration
     mapping: Moderation der Mapping-/Modding-Community
+    skinning: Moderation der Skinning-Community
+    leadership: Teamleitung
 nat:
-  areas:
-    communication: Kommunikation
-    evaluation: Beurteilung
-    moderation: Moderation
+  subgroups:
     structural: Strukturell
+    evaluation: Evaluierung
+    leadership: Leitung
 languages:
   partial: etwas <language>
   fil: Philippinisch

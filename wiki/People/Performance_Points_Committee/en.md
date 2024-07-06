@@ -5,7 +5,7 @@ tags:
 
 # Performance Points Committee
 
-The **Performance Points Committee** is a panel of well-versed players and developers who facilitate and approve updates to the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmapping/Star_rating) algorithms. Their goal is to help [osu! developers](/wiki/People/The_Team/Developers) push changes faster and with more community coordination.
+The **Performance Points Committee** is a panel of well-versed players and developers who facilitate and approve updates to the [performance points](/wiki/Performance_points) and [star rating](/wiki/Beatmap/Star_rating) algorithms. Their goal is to help [osu! developers](/wiki/People/Developers) push changes faster and with more community coordination.
 
 The osu! panel was first announced to the public through the [November 2021 *Performance Points & Star Rating Updates* news post](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) in response to a [community survey](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) held earlier that year.
 
@@ -19,10 +19,9 @@ The osu!taiko panel was formed on 1 May 2022 in response to the same survey as a
 
 | osu! profile | GitHub profile |
 | :-- | :-- |
-| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
-| ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987) | [emu1337](https://github.com/emu1337) |
-| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | [MBmasher](https://github.com/MBmasher) |
+| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
 
 ### osu!taiko
 

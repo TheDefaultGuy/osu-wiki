@@ -6,7 +6,7 @@ tags:
 
 # Performance Points Committee
 
-**Performance Points Committee** (atau *Komite Performance Points*) merupakan sebuah panel beranggotakan para pemain yang berpengalaman dan pengembang yang memfasilitasi dan menyetujui perubahan pada algoritma [performance points](/wiki/Performance_points) dan [star rating](/wiki/Beatmapping/Star_rating). Tujuan dari komite tersebut adalah membantu [pengembang osu!](/wiki/People/The_Team/Developers) dalam percepatan penyelesaian perubahan tersebut dengan mempertimbangkan berbagai masukan dari komunitas.
+**Performance Points Committee** (atau *Komite Performance Points*) merupakan sebuah panel beranggotakan para pemain yang berpengalaman dan pengembang yang memfasilitasi dan menyetujui perubahan pada algoritma [performance points](/wiki/Performance_points) dan [star rating](/wiki/Beatmap/Star_rating). Tujuan dari komite tersebut adalah membantu [pengembang osu!](/wiki/People/Developers) dalam percepatan penyelesaian perubahan tersebut dengan mempertimbangkan berbagai masukan dari komunitas.
 
 Panel mode osu! pertama kali diperkenalkan kepada publik melalui [artikel berita *Performance Points & Star Rating Updates* pada bulan November 2021](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) sebagai bentuk tanggapan dari hasil [survei komunitas](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) yang diselenggarakan beberapa bulan sebelumnya.
 
@@ -20,10 +20,9 @@ Panel mode osu!taiko dibentuk pada tanggal 1 Mei 2022 sebagai bentuk respon dari
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
-| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
-| ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987) | [emu1337](https://github.com/emu1337) |
-| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | [MBmasher](https://github.com/MBmasher) |
+| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
 
 ### osu!taiko
 

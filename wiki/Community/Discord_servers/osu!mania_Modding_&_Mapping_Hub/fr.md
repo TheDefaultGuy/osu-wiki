@@ -10,7 +10,7 @@
 
 |  |  |
 | :-- | :-- |
-| Lien d'invitation | <https://discord.gg/FqbDdYN> |
+| Lien d'invitation | <https://discord.gg/xX9r5GTQAp> |
 
 :::
 
@@ -21,18 +21,18 @@ Ce serveur est principalement composé de :
 - Salons pour demander du modding, des guest difficulties, des nominations, ou d'autres requêtes en rapport avec le mapping.
 - Salons dans lesquels les utilisateurs peuvent poser toute sorte de questions en rapport avec le mapping. Des mappeurs expérimentés pourront répondre à ces questions.
 - Un endroit pour partager des modding queues afin d'obtenir plus d'expérience.
-- Un endroit centralisé pour trouver le statut des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
+- Un endroit centralisé pour trouver le statut des [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 - Une liste de références utiles telles que des outils, des proposition de critères de classement ainsi que d'autres serveurs Discord.
 
 ## Staff
 
 | Rôle | Utilisateur (Identifiant Discord) |
 | :-- | :-- |
-| Propriétaire du serveur | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (FAMoss#8805) |
-| Modérateurs du serveur | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (FAMoss#8805), ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) (Feerum#4291), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (Maxus#9040), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) (Pope Gadget#7080), ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) (Shima Rin#7859) |
+| Propriétaire du serveur | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (@maxus_) |
+| Modérateurs du serveur | ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000) (@epicman2), ::{ flag=KR }:: [Furryswan](https://osu.ppy.sh/users/9555243) (@furryswan), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (@maxus_), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) (@protastic101), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) (@marticheca), ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) (@shad0wstar), ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) (@tailsdk), ::{ flag=AU }:: [zyletinee](https://osu.ppy.sh/users/18971387) (@zyletinee) |
 
 ## Vérification
 
-Afin d'accéder aux salons du serveur, les utilisateurs doivent confirmer leur identité en postant leur profil osu! dans le salon `#arrival`.
+Afin d'accéder aux salons du serveur, les utilisateurs doivent confirmer leur identité avec leur compte osu! en utilisant [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925).
 
-![Processus d'authentification](img/auth.jpg "En rejoignant le serveur, les utilisateurs enverront leur profil osu!. Un administrateur modifiera alors leur profil en conséquence.")
+![Message d'authentification d'AxerBot](img/auth.jpg?1 "En rejoignant le serveur, AxerBot invitera l'utilisateur à confirmer son identité avec son profil osu! en utilisant OAuth2.")

@@ -1,6 +1,10 @@
 ---
+outdated_translation: true
+outdated_since: aa750946913bfd81cd3ede0b23dbf925b56d7bdd
 no_native_review: true
 ---
+
+<!--The strings regarding gifting on the website have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated. Furthermore, this text should have the same structure as the English article.-->
 
 # osu!supporter
 
@@ -86,9 +90,9 @@ osu! biedt meer gerelaxte limieten van online functies voor supporters:
 
 | Waarde | Normaal limiet | osu!supporter limiet |
 | :-- | :-: | :-: |
-| [Beatmaps in behandeling](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(ranked beatmaps, 4)`, tot en met **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, tot en met **20**[^pending-beatmaps-ref] |
+| [Beatmaps in behandeling](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(ranked beatmaps, 4)`, tot en met **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, tot en met **20**[^pending-beatmaps-ref] |
 | Online beatmap favorieten | 100 | 1000 |
-| Aantal vrienden | 250 | 500 |
+| Aantal vrienden | 500 | 1000 |
 
 ### Extra skinnable elementen
 

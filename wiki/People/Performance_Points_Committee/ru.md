@@ -7,7 +7,7 @@ tags:
 
 # Комитет по очкам производительности
 
-**Комитет по очкам производительности** — группа опытных игроков и разработчиков, которые занимаются разработкой и обновлением алгоритмов, лежащих в основе [pp](/wiki/Performance_points) и [звёзд сложности](/wiki/Beatmapping/Star_rating). Их роль заключается в том, чтобы координировать действия сообщества и помогать остальным [разработчикам osu!](/wiki/People/The_Team/Developers) вносить изменения.
+**Комитет по очкам производительности** — группа опытных игроков и разработчиков, которые занимаются разработкой и обновлением алгоритмов, лежащих в основе [pp](/wiki/Performance_points) и [звёзд сложности](/wiki/Beatmap/Star_rating). Их роль заключается в том, чтобы координировать действия сообщества и помогать остальным [разработчикам osu!](/wiki/People/Developers) вносить изменения.
 
 Группа по osu! впервые появилась в новости [*Performance Points & Star Rating Updates*](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) ноября 2021 г. в ответ на ранее проведённый в сообществе [опрос](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey).
 
@@ -21,10 +21,9 @@ tags:
 
 | Профиль osu! | Профиль GitHub |
 | :-- | :-- |
-| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
-| ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987) | [emu1337](https://github.com/emu1337) |
-| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | [MBmasher](https://github.com/MBmasher) |
+| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | [apollo-dw](https://github.com/apollo-dw) |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
 
 ### osu!taiko
 

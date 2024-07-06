@@ -17,25 +17,23 @@ Ersetze `github.com` in der URL deiner Verzweigung mit `github.dev`, um das osu!
 
 Zwar sind alle Menüs in der Benutzeroberfläche des Editors verfügbar, aber die vorgesehene Art der Navigation ist über die **Befehlspalette**:
 
-- Drücke `F1` und gebe den Namen der zu öffnenden Einstellung oder der auszuführenden Aktion ein. Falls nichts angezeigt wird, probiere das Hamburger-Menü (`≡`) in der linken oberen Ecke des Bildschirms aus.
-- Um eine Datei zu öffnen, drücke `Strg` + `P` und gebe ihren Namen ein.
+- Drücke `F1` und gib den Namen der zu öffnenden Einstellung oder der auszuführenden Aktion ein. Falls nichts angezeigt wird, probiere das Hamburger-Menü (`≡`) in der linken oberen Ecke des Bildschirms aus.
+- Um eine Datei zu öffnen, drücke `Strg` + `P` und gib ihren Namen ein.
 
 ## Mit Branches arbeiten
 
 Erstelle einen neuen Branch, nachdem du [Bewährte Methoden § Änderungen vornehmen](/wiki/osu!_wiki/Contribution_guide/Best_practices#änderungen-vornehmen) gelesen hast, um deine Änderungen abzuspeichern.
 
 1. Klicke auf den Namen des aktuellen Branches in der linken unteren Ecke oder drücke `F1` und tippe `branch` ein.
-
-  - Wähle `Create new branch...` aus, trage den Namen des Branches ein und drücke `Enter`.
-  - Damit du nicht vergisst, worum es in deiner Arbeit in etwa geht, wähle einen beschreibenden Namen. Beispielsweise kannst du für eine deutsche Übersetzung der Seite [Beatmap-Diskussion](/wiki/Beatmap_discussion) `de-modding-v2` benutzen.
-
+   - Wähle `Create new branch...` aus, trage den Namen des Branches ein und drücke `Enter`.
+   - Damit du nicht vergisst, worum es in deiner Arbeit in etwa geht, wähle einen beschreibenden Namen. Beispielsweise kannst du für eine deutsche Übersetzung der Seite [Beatmap-Diskussion](/wiki/Beatmap_discussion) `de-modding-v2` benutzen.
 2. Wähle den Namen des entsprechenden Branches im zuvor genannten Dropdown-Menü, um zu deinen Änderungen zurückzukehren.
 
 ## Bearbeiten
 
 ### Bereits vorhandene Dateien
 
-1. Drücke `Strg` + `P`, gebe den Namen einer Datei ein, die du öffnen möchtest, und tippe dann auf `Enter`. Lose Übereinstimmung wird unterstützt: Zum Beispiel wird durch die Eingabe von `nominators veto de` die Datei `wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto/de.md` aufgerufen.
+1. Drücke `Strg` + `P`, gib den Namen einer Datei ein, die du öffnen möchtest, und tippe dann auf `Enter`. Lose Übereinstimmung wird unterstützt: Zum Beispiel wird durch die Eingabe von `nominators veto de` die Datei `wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto/de.md` aufgerufen.
 2. Bearbeite die Datei nach Bedarf. Nicht in die Versionshistorie aufgenommene Änderungen werden **in deinem Browser gespeichert** und du kannst zu ihnen zurückkehren, nachdem du `github.dev` verlassen hast.
 3. [Erstelle einen Commit](#änderungen-in-die-versionshistorie-aufnehmen), sobald du mit dem/den Artikel(n) zufrieden bist.
 
@@ -63,9 +61,9 @@ Artikel werden innerhalb von Ordnern mit dem originalen Text (`en.md`) und seine
 
 1. Öffne die Ansicht der Versionskontrolle (`Strg` + `Shift` + `G`).
 2. Klicke auf den Button `+` bei Dateien, die du gemeinsam speichern möchtest.
-3. Gebe die Commit-Nachricht in Englisch ein. **Benutze kurze und sinnvolle Commit-Nachrichten**, da sie andere wissen lassen, was sie erwartet.
+3. Gib die Commit-Nachricht in Englisch ein. **Benutze kurze und sinnvolle Commit-Nachrichten**, da sie andere wissen lassen, was sie erwartet.
 4. Drücke `Strg` + `Enter` oder klicke auf den Button `✓`, um die Änderungen in die Versionshistorie aufzunehmen und hochzuladen.
 
 ## Die nächsten Schritte
 
-Verwende [Bewährte Methoden § Selbstüberprüfung](/wiki/osu!_wiki/Contribution_guide#selbstüberprüfung) zum Korrekturlesen deiner Änderungen, sobald alles abgeschlossen ist. Gebe danach deine Änderungen zur Überprüfung frei, indem du im Repository `ppy/osu-wiki` eine [Änderungsanfrage öffnest](/wiki/osu!_wiki/Contribution_guide#änderungsanfrage).
+Verwende [Bewährte Methoden § Selbstüberprüfung](/wiki/osu!_wiki/Contribution_guide#self-check) zum Korrekturlesen deiner Änderungen, sobald alles abgeschlossen ist. Gib danach deine Änderungen zur Überprüfung frei, indem du im Repository `ppy/osu-wiki` eine [Änderungsanfrage öffnest](/wiki/osu!_wiki/Contribution_guide#änderungsanfrage).

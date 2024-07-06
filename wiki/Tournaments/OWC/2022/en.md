@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2022 banner](img/owc2022_banner.jpg)
 
-The **osu! World Cup 2022** (***OWC 2022***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the thirteenth instalment of the osu! World Cup.
+The **osu! World Cup 2022** (***OWC 2022***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the thirteenth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu! World Cup 2022** (***OWC 2022***) is a country-based osu! tournament 
 
 ## Prizes
 
-The osu! World Cup 2022 offers a minimum $5,000 cash prize pool and limited edition merch. The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-world-cup-2022-0b3a1a25)**!
+The osu! World Cup 2022 offered a minimum $5,000 cash prize pool and limited edition merch. The prize pool was further increased to $6,085 from **[community donations](https://opencollective.com/osu-tournaments/events/osu-world-cup-2022-0b3a1a25)**.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -34,9 +34,11 @@ The osu! World Cup 2022 offers a minimum $5,000 cash prize pool and limited edit
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/badge-1st.jpg "OWC 2022 winner badge") ![](img/badge-2nd.jpg "OWC 2022 2nd place badge") ![](img/badge-3rd.jpg "OWC 2022 3rd place badge")
+
 ## Organisation
 
-The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and various community members.
+The osu! World Cup 2022 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -44,8 +46,9 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 | Mappool selector | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [Fangzy](https://osu.ppy.sh/users/4497691), ::{ flag=BR }:: [niii_san](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [saiyo](https://osu.ppy.sh/users/2709574), ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | Mappool quality assurance | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637) |
 | Mappool playtester | ::{ flag=US }:: [\-Arko](https://osu.ppy.sh/users/8802914), ::{ flag=US }:: [chezbananas](https://osu.ppy.sh/users/7941423), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=CA }:: [i need top 727](https://osu.ppy.sh/users/6701656), ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=US }:: [NinjaFish](https://osu.ppy.sh/users/4819811), ::{ flag=SE }:: [Reedkatt](https://osu.ppy.sh/users/8335950), ::{ flag=MN }:: [seegii](https://osu.ppy.sh/users/4659319), ::{ flag=CA }:: [Stoof](https://osu.ppy.sh/users/4916057), ::{ flag=US }:: [theez](https://osu.ppy.sh/users/4230827), ::{ flag=US }:: [Trail Mix](https://osu.ppy.sh/users/3328742) |
-| Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
+| Mapper | ::{ flag=GB }:: [\-Mo\-](https://osu.ppy.sh/users/2202163), ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976), ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380), ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865), ::{ flag=RU }:: [Alvearia](https://osu.ppy.sh/users/6248691), ::{ flag=US }:: [Astronic](https://osu.ppy.sh/users/9320502), ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=NO }:: [BarkingMadDog](https://osu.ppy.sh/users/3475189), ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451), ::{ flag=GB }:: [CallieCube](https://osu.ppy.sh/users/7535045), ::{ flag=US }:: [Camo](https://osu.ppy.sh/users/5194391), ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=JP }:: [Delis](https://osu.ppy.sh/users/1603923), ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334), ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861), ::{ flag=US }:: [Elcheer](https://osu.ppy.sh/users/4420014), ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342), ::{ flag=PL }:: [fartownik](https://osu.ppy.sh/users/56917), ::{ flag=CA }:: [Feiri](https://osu.ppy.sh/users/3214844), ::{ flag=RU }:: [fergas](https://osu.ppy.sh/users/3144542), ::{ flag=PH }:: [flake](https://osu.ppy.sh/users/7627157), ::{ flag=MX }:: [funny](https://osu.ppy.sh/users/8473573), ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992), ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899), ::{ flag=FR }:: [Halgoh](https://osu.ppy.sh/users/4109923), ::{ flag=SG }:: [hehe](https://osu.ppy.sh/users/2123087), ::{ flag=EE }:: [iljaaz](https://osu.ppy.sh/users/8501291), ::{ flag=FR }:: [IsomirDiAngelo](https://osu.ppy.sh/users/7715620), ::{ flag=US }:: [ItsWinter](https://osu.ppy.sh/users/6381153), ::{ flag=US }:: [JeZag](https://osu.ppy.sh/users/3087506), ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377), ::{ flag=CA }:: [KKipalt](https://osu.ppy.sh/users/6889573), ::{ flag=TW }:: [knowledgeking](https://osu.ppy.sh/users/8022517), ::{ flag=BR }:: [kowari](https://osu.ppy.sh/users/5404892), ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378), ::{ flag=US }:: [Kurashina Asuka](https://osu.ppy.sh/users/7476493), ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581), ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271), ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605), ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382), ::{ flag=NZ }:: [moph](https://osu.ppy.sh/users/2233878), ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=KR }:: [Nakagawa\-Kanon](https://osu.ppy.sh/users/87065), ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223), ::{ flag=BR }:: [Net0](https://osu.ppy.sh/users/5099768), ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522), ::{ flag=FR }:: [Raijodo](https://osu.ppy.sh/users/13400075), ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227), ::{ flag=CA }:: [Serenhaide](https://osu.ppy.sh/users/10466315), ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837), ::{ flag=US }:: [toybot](https://osu.ppy.sh/users/2848604), ::{ flag=FI }:: [verychill](https://osu.ppy.sh/users/10132936), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | Commentator | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) |
+| Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
@@ -114,24 +117,42 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 | ::{ flag=UY }:: | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [El Milanga](https://osu.ppy.sh/users/12264918), [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [Athenai](https://osu.ppy.sh/users/5522789), [Shikke](https://osu.ppy.sh/users/5382216), [Melxdy](https://osu.ppy.sh/users/11113213), [etterna in osu](https://osu.ppy.sh/users/5243536) |
 | ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)**, [\[sin\]](https://osu.ppy.sh/users/11021073), [Phoeni\_](https://osu.ppy.sh/users/14953642), [mizumi\_a](https://osu.ppy.sh/users/14977562), [walle](https://osu.ppy.sh/users/8431549), [waifaii](https://osu.ppy.sh/users/9256803), [\_ Freedom \_](https://osu.ppy.sh/users/3999831), [SkyArrow](https://osu.ppy.sh/users/4039647) |
 
-## Match schedule: Finals
+## Podium
 
-### Saturday, 19 November 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| Poland ::{ flag=PL }:: | ::{ flag=CA }:: Canada | [Nov 19 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221119T180000&p1=1440&p2=262&p3=188) | [^losers-bracket] |
-
-### Sunday, 20 November 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Nov 20 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T040000&p1=1440&p2=263&p3=33) | [^losers-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 20 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T130000&p1=1440&p2=235&p3=37) | [^winners-bracket] |
-| Poland ::{ flag=PL }:: | ::{ flag=CN }:: China | [Nov 20 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T140000&p1=1440&p2=262&p3=33) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=CN }:: China | [Nov 20 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T160000&p1=1440&p2=188&p3=33) | [^potential-match] |
+![](img/podium.jpg "OWC 2022 podium")
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (165 MB)](https://drive.google.com/uc?id=1mHF-2DOzNobXvGfl3FxKRyQwNIxiFJFn)**
+
+- No Mod
+  1. [TUYU - Under Kids (captin1) \[Rebellion\]](https://osu.ppy.sh/beatmapsets/1889093#osu/3890657)
+  2. [Raimukun - Myths Orbis (knowledgeking) \[Triangulum Majus\]](https://osu.ppy.sh/beatmapsets/1889095#osu/3890663)
+  3. [JYOCHO - Kirei na Sankaku, Asahi Ningen (Raijodo) \[Special\]](https://osu.ppy.sh/beatmapsets/1888518#osu/3889346)
+  4. [DJ Raisei - T.R.A.P. (Halgoh) \[Vesperal Singularity\]](https://osu.ppy.sh/beatmapsets/1889105#osu/3890684)
+  5. [II-L ft.amelie xoxo - THE EARTH (Ryuusei Aika) \[Zeta\]](https://osu.ppy.sh/beatmapsets/1889101#osu/3890672)
+- Hidden
+  1. [FELT - Summer Fever (Camo) \[Shimmering Sky\]](https://osu.ppy.sh/beatmapsets/1888937#osu/3890317)
+  2. [Dark PHOENiX - Shoujo ga Mita Nihon no Genfuukei (iljaaz) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1889104#osu/3890682)
+  3. [Sephid - Thunderstrike 1988 (captin1) \[Thunderstrike 2022\]](https://osu.ppy.sh/beatmapsets/1889109#osu/3890688)
+- Hard Rock
+  1. [KINEMA106 - Nightmare Party (Mordred) \[Poi\]](https://osu.ppy.sh/beatmapsets/1888954#osu/3890347)
+  2. [Rabbit House - Sanctuary (funny) \[jesse we have to map for owc2022\]](https://osu.ppy.sh/beatmapsets/1889094#osu/3890659)
+  3. [The Fearless Flyers - Assassin (olc) \[lets go\]](https://osu.ppy.sh/beatmapsets/1580627#osu/3227488)
+- Double Time
+  1. [Aoi Eir - Yurari (Garden) \[Expert\]](https://osu.ppy.sh/beatmapsets/1888926#osu/3890269)
+  2. [-45 - yoshikawa45 vs. siesta45 Battle of HongKong (Dada) \[Para Bellum\]](https://osu.ppy.sh/beatmapsets/1889111#osu/3890692)
+  3. [Demetori - Kuuchuu ni Shizumu Kishinjou \~ Counter-Clock World (jonathanlfj) \[Lunatic Collab\]](https://osu.ppy.sh/beatmapsets/347719#osu/818597)
+  4. [Anri - Last Surf Holiday (Night Tempo edit) (Net0) \[Extra Tourney\]](https://osu.ppy.sh/beatmapsets/1889079#osu/3890628)
+- FreeMod
+  1. [Falcom Sound Team jdk - Satisfied Madness (jonathanlfj) \[Abyss\]](https://osu.ppy.sh/beatmapsets/1889083#osu/3890637)
+  2. [Iyowa feat.KAFU - Kyu-Kurarin (7\_7 bootleg) (hehe) \[0\_0\]](https://osu.ppy.sh/beatmapsets/1888821#osu/3890011)
+  3. [yak\_won - Wind Tales (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1889131#osu/3890721)
+  4. [METAROOM - SPIKEY BOI (JeZag) \[MUSH (THE FINALE)\]](https://osu.ppy.sh/beatmapsets/1888434#osu/3889200)
+- Tiebreaker
+  1. **[seatrus - EXXTRA JUDGEMENT (elicz1) \[GRAND FINALE\]](https://osu.ppy.sh/beatmapsets/1889132#osu/3890723)**
 
 ### Finals
 
@@ -300,6 +321,41 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 ## Match results
 
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/13XPjZ5SWVblJ4NB3IMMsSi1aurh_5ra_vSCxpO7HiW4).
+
+Saturday, 26 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Germany ::{ flag=DE }:: | 1 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/105297522) |
+
+Sunday, 27 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ::{ flag=KR }:: | 1 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/105307852) |
+| **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/105308638) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1-tmgzX8OJ1NczNq9MsX5ByFRb9JMvnwPKol83GFr5-k).
+
+Saturday, 19 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/105160174) |
+| **Poland** ::{ flag=PL }:: | **7** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/105161592) |
+
+Sunday, 20 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/105179952) |
+| Poland ::{ flag=PL }:: | 3 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/105186246) |
+
 ### Semifinals
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/19lvGbyiVteBzv3eHQbv1iF966tfng_FnE1yDBoA3l00).
@@ -309,7 +365,7 @@ Saturday, 12 November 2022:
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ::{ flag=HK }:: | **6** | 1 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/105012634) |
-| Romania ::{ flag=RO }:: | 3 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/105014920) |
+| **Romania** ::{ flag=RO }:: | **0** | -1 | ::{ flag=CN }:: China | [*win by default*](https://osu.ppy.sh/community/matches/105014920) |
 | **Russian Federation** ::{ flag=RU }:: | **6** | 4 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/105019274) |
 
 Sunday, 13 November 2022:
@@ -319,8 +375,14 @@ Sunday, 13 November 2022:
 | **Canada** ::{ flag=CA }:: | **6** | 3 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/105031635) |
 | **Canada** ::{ flag=CA }:: | **6** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/105033070) |
 | United States ::{ flag=US }:: | 5 | **6** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/105033493) |
-| **China** ::{ flag=CN }:: | **6** | 4 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/105041241) |
+| China ::{ flag=CN }:: | 0 | 0 | ::{ flag=RU }:: Russian Federation | [*nullified*](https://osu.ppy.sh/community/matches/105041241) |
 | Poland ::{ flag=PL }:: | 3 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/105046293) |
+
+Friday, 18 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Romania** ::{ flag=RO }:: | **6** | 5 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/105134869) |
 
 ### Quarterfinals
 
@@ -414,7 +476,7 @@ Sunday, 23 October 2022:
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1N-3D-3eNOLgUDsTaUghN6_dozHyaa54mHPsaJYmWjfg). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1zCrRMjIVXPW-ITFzgOBm346vIFbrbC7VmO-SjAu-oLA).
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1N-3D-3eNOLgUDsTaUghN6_dozHyaa54mHPsaJYmWjfg).
 
 | Seed | Country | %MAX |
 | :-: | :-- | :-- |
@@ -527,7 +589,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
    - **Teams that do not not send their team list by Thursday, 6 October 23:59 UTC will be disqualified from the competition.**
-3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
+3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
@@ -537,7 +599,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 4 brackets: No Mod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), and [Double Time](/wiki/Game_modifier/Double_Time). There will be no Free Mods or tiebreakers for this stage.
+2. The mappool will contain 4 brackets: No Mod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time). There will be no Free Mods or tiebreakers for this stage.
 3. The Qualifier pool will feature 11 beatmaps, organised as such:
    - No Mod: 4 beatmaps
    - Hidden: 2 beatmaps
@@ -577,7 +639,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - The loser of the `!roll` decides which team **bans** first.
    - **From Quarterfinals onwards, the first team will ban one beatmap, followed by two bans from second team, finishing with one ban from the first team.**
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
+5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:
@@ -590,7 +652,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Mappool information
 
 1. Every stage will have its own mappool.
-2. Each mappool will consist of 5 brackets: [No Mod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and [FreeMod](/wiki/Game_modifier#freemod).
+2. Each mappool will consist of 5 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#free-mod).
 3. The mappool sizes are as follows:
    - Qualifiers: 11 beatmaps
    - Round of 32 and Round of 16: 15 beatmaps
@@ -615,9 +677,3 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for their team's availability.
-
-## Notes
-
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket matches

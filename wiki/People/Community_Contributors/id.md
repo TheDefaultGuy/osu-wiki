@@ -1,10 +1,21 @@
+---
+outdated_translation: true
+outdated_since: dec873963f274d965bb1e7a5bcff92e241082c9a
+---
+
 # Kontributor komunitas
 
-![](/wiki/shared/contributor.jpg "Lencana kontributor")
+::: Infobox
+![Old era contributor badge](/wiki/shared/contributor-old-era.png "Old era contributor badge")
+:::
+
+::: Infobox
+![New era contributor badge](/wiki/shared/contributor-new-era.png "New era contributor badge")
+:::
 
 **Kontributor komunitas** (*community contributor*) merupakan  para tokoh komunitas yang telah banyak meluangkan waktunya untuk melayani komunitas osu! atas kemauan diri mereka sendiri, terutama yang terkait dengan berbagai hal dan fitur yang sering dianggap remeh namun berguna hingga sekarang. Mereka dianugerahkan lencana khusus sebagai tanda bukti atas kontribusi mereka yang telah berdampak besar bagi seisi komunitas.
 
-Kontributor komunitas berbeda dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), yang merupakan gelar bagi para anggota tim osu! yang sudah tidak lagi menjabat. Lencana kontributor komunitas diberikan kepada para pekerja lepas (*freelancer*) yang telah melampaui ekspektasi dan banyak berkontribusi demi meningkatkan osu! dan komunitasnya.
+Kontributor komunitas berbeda dengan [osu! Alumni](/wiki/People/osu!_Alumni), yang merupakan gelar bagi para anggota tim osu! yang sudah tidak lagi menjabat. Lencana kontributor komunitas diberikan kepada para pekerja lepas (*freelancer*) yang telah melampaui ekspektasi dan banyak berkontribusi demi meningkatkan osu! dan komunitasnya.
 
 ## 2013
 
@@ -27,7 +38,7 @@ Kontributor komunitas berbeda dengan [osu! Alumni](/wiki/People/The_Team/osu!_Al
 | ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | Mengelola [pengemasan paket beatmap](https://osu.ppy.sh/beatmaps/packs) selama lebih dari 3 tahun dan sistem *beatmap chart* selama beberapa tahun. |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Melayani osu! selama bertahun-tahun, termasuk merancang skin beatmap asli versi pertama, mengusung seni [storyboard](/wiki/Storyboard), dan memotivasi komunitas secara umum. |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Manajemen dan moderasi komunitas pada masa awal berdirinya osu!, yang disertai dengan berbagai kontribusi besar lain pada zamannya. |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Pengelola komunitas dan moderator global pertama, yang menjadi suri teladan untuk diikuti oleh tim [GMT](/wiki/People/The_Team/Global_Moderation_Team) ke depannya. |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Pengelola komunitas dan moderator global pertama, yang menjadi suri teladan untuk diikuti oleh tim [GMT](/wiki/People/Global_Moderation_Team) ke depannya. |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Pengelola staf pertama, BATmanager, dan sosok yang membentuk tim moderasi beatmap elit dari nol seorang diri. |
 
 ## 2015
