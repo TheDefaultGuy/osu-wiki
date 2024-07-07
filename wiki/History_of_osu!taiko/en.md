@@ -7,17 +7,15 @@ tags:
   - tnt
   - mapping
   - gamemode
-  - game
-  - mode
 ---
 
 # History of osu!taiko
 
-The history of osu!taiko compiled for the osu! wiki.
+The history of osu!taiko compiled for the osu! wiki. Information was gathered via old forum posts, news posts, web archives, and interviews with key individuals that were involved with osu!taiko's past.
 
 ## 2007-2008: The Dark Period
 
-The Dark Period was the brief moment in time where osu!taiko didn't exist. During this time, the [Beatmap Approval Team](wiki/Modding/Beatmap_Appreciation_Team/en.md) (*BAT*) was created [^BAT] who were the very first people in charge of the ranking process. On the 28th of August, 2008, Resident Skinner ::{ flag=US }::[LuigiHann](https://osu.ppy.sh/users/1079) made a forum post proposing the addition of a game mode based on the video game series [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin).[^LuigiHann] When interviewed about this, ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) said:
+The Dark Period was the brief moment in time where osu!taiko didn't exist. During this time, the [Beatmap Approval Team](wiki/Modding/Beatmap_Appreciation_Team/en.md) (*BAT*) was created who were the very first people in charge of the ranking process.[^BAT] On the 28th of August, 2008, Resident Skinner ::{ flag=US }::[LuigiHann](https://osu.ppy.sh/users/1079) made a forum post proposing the addition of a game mode based on the video game series [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin).[^LuigiHann] When interviewed about this, ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) said:
 
 > Yes, Taiko Mode (and the broader concept of alternate game modes) was effectively my idea. As far as I can recall, Catch the Beat and Relax Mode were also my requests. I think Mania mode came about later since I didn't think that kind of thing made sense organically from osu maps. I was a big fan of the Taiko games that came out on the Nintendo DS, that was basically my exposure to "real" taiko. I did own a copy of Taiko Drum Master for PS2 but I think I got that from eBay relatively late. But the specific idea of including a "Taiko Mode" in osu was inspired by the Taiko-themed minigame in the Nodame Cantabile DS game.
 
@@ -37,7 +35,7 @@ Taiko was added to osu! on the 6th of May 2008.[^taikoadded] Initially, it wasnâ
 
 ### First Ranked Taiko Difficulty
 
-On the 22nd of May, 2008, the very first Ranked Taiko difficulty was added. It belongs to the map [Saitama2000](https://osu.ppy.sh/beatmapsets/210#osu/699) by the mapper ::{ flag=TH }:: [Kharl](https://osu.ppy.sh/users/452). It's important to note that the map itself was actually ranked before Taiko was added. The Taiko difficulty was added later by the mapper and then subsequently ranked by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). [^firsttaikodiff]
+On the 22nd of May, 2008, the very first Ranked Taiko difficulty was added. It belongs to the map [Saitama2000](https://osu.ppy.sh/beatmapsets/210#osu/699) by the mapper ::{ flag=TH }:: [Kharl](https://osu.ppy.sh/users/452). It's important to note that the map itself was actually ranked before Taiko was added. The Taiko difficulty was added later by the mapper and then subsequently ranked by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2).[^firsttaikodiff]
 
 ### Special Mode
 
@@ -45,15 +43,15 @@ On the 18th of October, 2008, Taiko would go from being a mod to a separate game
 
 ![](/wiki/History_of_osu!taiko/img/specialtab.png "Special mode selection tab")
 
-The Special mode menu allowed you to play one of the two alternative game modes at the time: Taiko and Fruits which would quickly be renamed to [Catch the Beat](wiki/Game_mode/osu!catch/en.md).
+The Special mode menu allowed you to play one of the two alternative game modes at the time: Taiko and "Fruits", which would quickly be renamed to [Catch the Beat](wiki/Game_mode/osu!catch/en.md).
 
 ![](/wiki/History_of_osu!taiko/img/specialmodescreen.jpg "Special mode menu screen")
 
 ### Change and Development
 
-From 2009-2008 was a period of rapid change and development for Taiko. When looking at the archived [development changelogs](https://osu.ppy.sh/community/forums/topics/15), its shows that big changes were being made almost every single day. Because of the large number of changes done to the game mode around this time, there was a score wipe around mid to late 2009.
+From 2009-2008 was a period of rapid change and development for Taiko. When looking at the archived [development changelogs](https://osu.ppy.sh/community/forums/topics/15), its shows that big changes were being made almost every single day. Because of the large number of changes done to the game mode around this time, there was a score wipe around mid to late 2009.[^ScoreWipe]
 
-Taiko gameplay around this time was very similar to how it is today with one major exception. In the beginning, sliders didn't have a cap to how many notes could be played, they basically worked exactly how they do in Taiko no Tatsujin. This quirk was easily exploitable by players and it made it so that the top plays on any given difficulty would devolve into who could land the most hits on the sliders.
+Taiko gameplay around this time was very similar to how it is today with one major exception. In the beginning, sliders didn't have a cap to how many notes could be played, they basically worked exactly how they do in Taiko no Tatsujin.[^sliders] This quirk was easily exploitable by players and it made it so that the top plays on any given difficulty would devolve into who could land the most hits on the sliders.
 
 ### Noteable Individuals
 
@@ -67,7 +65,7 @@ When asked about specialization, former BAT, ::{ flag=HK }:: [wmfchris](https://
 
 On the 29th of March 2009, the [Mapping Assistance Team](wiki/Modding/Mapping_Assistance_Team/en.md) (*MAT*) was founded.
 
-While Taiko didn't receive many difficulties around this time, there were a few notable mappers. Mappers such as ::{ flag=PH }:: [Zekira](https://osu.ppy.sh/users/36749), ::{ flag=TH }::[DJPop](https://osu.ppy.sh/users/2363), ::{ flag=FR }::[Sushi971](https://osu.ppy.sh/users/43108),  ::{ flag=MY }:: [aquabluu](https://osu.ppy.sh/users/6537), ::{ flag=KR }:: [arken1015](https://osu.ppy.sh/users/113646), ::{ flag=HK }:: [wmfchris](https://osu.ppy.sh/users/7401), ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) and ::{ flag=KR }:: [lepidopodus](https://osu.ppy.sh/users/194807) were ranking several osu!standard maps with Taiko difficulties. 
+While Taiko didn't receive many difficulties around this time, there were a few notable mappers. Mappers such as ::{ flag=PH }:: [Zekira](https://osu.ppy.sh/users/36749), ::{ flag=TH }::[DJPop](https://osu.ppy.sh/users/2363), ::{ flag=FR }:: [Sushi971](https://osu.ppy.sh/users/43108),  ::{ flag=MY }:: [aquabluu](https://osu.ppy.sh/users/6537), ::{ flag=KR }:: [arken1015](https://osu.ppy.sh/users/113646), ::{ flag=HK }:: [wmfchris](https://osu.ppy.sh/users/7401), ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) and ::{ flag=KR }:: [lepidopodus](https://osu.ppy.sh/users/194807) were ranking several osu!standard maps with Taiko difficulties. 
 
 ### First Taiko Guidelines
 
@@ -81,7 +79,7 @@ The Age of Independence is when Taiko establishes itself as a completely indepen
 
 The first major event to start the Age of Independence was the [First Taiko World Cup](wiki/Tournaments/TWC/2011/en.md) in 2011. The TWC was a major event for the community since it was the very first of its kind. It was managed by  ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993), ::{ flag=KR }:: [arken1015](https://osu.ppy.sh/users/113646), ::{ flag=KR }:: [lepidopodus](https://osu.ppy.sh/users/194807), ::{ flag=IL }:: [Noobita](https://osu.ppy.sh/users/119188), and ::{ flag=HK }:: [wmfchris](https://osu.ppy.sh/users/7401). During the TWC, a temporary channel was created called #twc. It was a popular place for taiko players to hang out since there wasnâ€™t a dedicated channel for the game mode. However, after the TWC concluded, the channel was deleted. This left Taiko players with no place to talk and so on the 30th of May, 2011, a [forum post](https://osu.ppy.sh/community/forums/topics/54137) would be made by ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) requesting the addition of a #taiko channel. It was eventually added thanks to this post.
 
-A few notable figures would appear during early 2012, ::{ flag=HK }:: [wmfchris](https://osu.ppy.sh/users/7401),  ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679), and later on ::{ flag=US }:: [MMzz](https://osu.ppy.sh/users/128993) would join the MAT and would be later on moved to the BAT. They were some of the first BATs that specialized in Taiko after ::{ flag=CA }:: [mattyu007](https://osu.ppy.sh/users/4934). [^2012BATs]
+A few notable figures would appear during early 2012, ::{ flag=HK }:: [wmfchris](https://osu.ppy.sh/users/7401),  ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679), and later on ::{ flag=US }:: [MMzz](https://osu.ppy.sh/users/128993) would join the MAT and would be later on moved to the BAT. They were some of the first BATs that specialized in Taiko after ::{ flag=CA }:: [mattyu007](https://osu.ppy.sh/users/4934).[^2012BATs]
 
 ### First Official Taiko Ranking Criteria
 
@@ -95,9 +93,9 @@ On the 7th of August, 2012, the very first Taiko-only mapset was ranked, [Red Go
 
 ### Taiko BAT
 
-A year later on the 2nd of August, 2013, the osu!taiko BAT was formed.[^taikobat] The osu!taiko BATs were BATs that were dedicated to only checking Taiko mapsets. This is different from the Taiko "specialized" BATs mentioned previously. The creation of the Taiko BAT was requested by ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) to ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335). The original roster consisted of ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) and ::{ flag=US }::[karterfreak](https://osu.ppy.sh/users/1031958); a few days later they would be joined by ::{ flag=HK }:: [KanaRin](https://osu.ppy.sh/users/310747) and ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707).
+A year later on the 2nd of August, 2013, the osu!taiko BAT was formed.[^taikobat] The osu!taiko BATs were BATs that were dedicated to only checking Taiko mapsets. This is different from the Taiko "specialized" BATs mentioned previously. The creation of the Taiko BAT was requested by ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) to ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335). The original roster consisted of ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) and ::{ flag=US }:: [karterfreak](https://osu.ppy.sh/users/1031958); a few days later they would be joined by ::{ flag=HK }:: [KanaRin](https://osu.ppy.sh/users/310747) and ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707).
 
-The last event to happen in the Age of Independence would be the creation of the first Taiko-only beatmap pack on the 6th of November, 2013. [^MapPack]
+The last event to happen in the Age of Independence would be the creation of the first Taiko-only beatmap pack on the 6th of November, 2013.[^MapPack]
 
 ## 2014-2015: Period of Stagnation
 
@@ -109,11 +107,11 @@ On the 21st of August 2014, it was announced that the BAT would be split into 2 
 
 ## 2015-2019: Age of Creativity
 
-The Age of Creativity is when Taiko mappers started to push the limits of what was deemed rankable by creating and subsequently ranking harder maps as well as developing more creative mapping styles.
+The Age of Creativity is when Taiko mappers started to push the limits of what was deemed rankable by creating and subsequently ranking harder maps, as well as developing more creative mapping styles. These changes as well as other introductions led to a renaissance of osu!taiko mapping.
 
 ### Harder Maps
 
-The event that started the Age of Creativity was the first Taiko-only mapping contest which was announced on the 13th of April, 2015. [^TaikoContest]
+The event that started the Age of Creativity was the first Taiko-only mapping contest which was announced on the 13th of April, 2015.[^TaikoContest]
 
 A few months later, the first black icon Taiko difficulty was ranked, [8 Sides of Nico Nico Douga](https://osu.ppy.sh/beatmapsets/192392#taiko/457542) by the mapper ::{ flag=KR}:: [bbj0920](https://osu.ppy.sh/users/87546). This is significant because even though Taiko maps were considerably hard from the very beginning, there were no ranked maps hard enough to actually challenge top players.
 
@@ -133,7 +131,7 @@ Around the time all 3 maps were going through the ranking process, the [Taiko No
 
 The loved section was added on the 17th of October 2016,[^loved] and a few days later the first Taiko map would be loved, [Shiawase ni nareru kakushi komando ga aru rashii](https://osu.ppy.sh/beatmapsets/219733#taiko/514465) by the mapper ::{ flag=AT }:: [Firce777](https://osu.ppy.sh/users/274072).
 
-On the 25th of May, 2017, Taiko would receive it's official mascot, [Mocha](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here), designed by the artist ::{ flag=US }:: [Crowie](https://osu.ppy.sh/users/6894067). 
+On the 25th of May, 2017, Taiko would receive it's official mascot, Mocha, designed by the artist ::{ flag=US }:: [Crowie](https://osu.ppy.sh/users/6894067).[^mocha] 
 ![](/wiki/History_of_osu!taiko/img/12.jpg "Mocha's original design that was submitted for the art contest.")
 
 ### Easier Taiko BN Tests
@@ -146,7 +144,7 @@ On the 27th of September 2017, the Taiko Ranking Criteria received its first maj
 
 ## 2019-Present: Modern Age
 
-The Modern Age starts off with the restructure of the QAT to the [Nomination Assessment Team](wiki/People/The_Team/Nomination_Assessment_Team/en.md) (*NAT*) on the 5th of May, 2019. [^NAT]
+The Modern Age starts off with the restructure of the QAT to the [Nomination Assessment Team](wiki/People/The_Team/Nomination_Assessment_Team/en.md) (*NAT*) on the 5th of May, 2019.[^NAT]
 
 On the 18th of January, 2020, the NAT held a meeting discussing a system Taiko was using for dealing with applications of previous Beatmap Nominators who wanted to return. The system Taiko had in place basically allowed previous Beatmap Nominators to rejoin much easier if they left on good terms. This system proved successful and was adopted by the other gamemodes.
 
@@ -154,7 +152,7 @@ On the 16th of September, 2020, a new [Taiko Star Rating System](https://osu.ppy
 
 On the 30th of November, 2020, Hybrid maps were required to have 2 BNs per gamemode in order to be qualified. This means that if a map had difficulties from all 4 game modes, then it would need 8 Beatmap Nominators in order to be qualified. This was a stark contrast to the previous system where hybrids only needed 2 Nominators. Because of this new system, the ranked section did not receive a Hybrid map for months.
 
-On the 1st of May, 2022, the [osu!taiko Performance Points Committee](wiki/People/Performance_Points_Committee/en.md) was formed in response to a [community survey](https://osu.ppy.sh/home/news/2022-09-28-changes-to-osu-taiko-sr-and-pp) regarding Performance Points and Star Rating. This comitte consisted of  ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208), ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) and ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501). They had made a [document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit#heading=h.azyhdbla4xg1) detailing a proposal for a major rework for both Star Rating and Performance Points. This rework would make so that Star Rating and Performance Points would more accurately reflect a map's apparent difficulty. These changes would then be accepted and applied on the 28th of September, 2022.
+On the 1st of May, 2022, the [osu!taiko Performance Points Committee](wiki/People/Performance_Points_Committee/en.md) was formed in response to a [community survey](https://osu.ppy.sh/home/news/2022-09-28-changes-to-osu-taiko-sr-and-pp) regarding Performance Points and Star Rating. This comitte consisted of  ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208), ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) and ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501). They had made a document detailing a proposal for a major rework for both Star Rating and Performance Points.[^PPrework] This rework would make so that Star Rating and Performance Points would more accurately reflect a map's apparent difficulty. These changes would then be accepted and applied on the 28th of September, 2022.
 
 On the 13 of July, 2023, the Trial BN system was introduced, in which a new tier of Beatmap Nominator was added, the Trial Beatmap Nominators.[^TrialBN] A Trial Beatmap Nominator was tier below a Probatinary Beatmap Nominator, where they would be able to nominate 3 maps in 1 month, as soon as they nominated 3 maps or a month had passed, their nominations would be evaluated. If they passed the trial, Trial BNs would then become a Probatinary Beatmap Nominator. Eventually this would later be reworked into a stricter probationary period, where instead of being a Trial Beatmap Nominator, applicants would be accepted as a Probationary Beatmap Nominator but with probationary periods that are looked at more closely.[^TrialProb]
 
@@ -177,24 +175,48 @@ A list of the most important and influential people throughout osu!taiko's histo
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Creator of the [osu!taiko Modding & Mapping Hub Discord server](wiki/Community/Discord_servers/osu!taiko_Modding_&_Mapping_Hub/en.md), as well as being part of [Project Loved](wiki/Community/Project_Loved/en.md), the Mappers' Choice Awards, the [Community Mentorship program](wiki/Community/Community_Mentorship_Program/en.md), [Beatmap Spotlights](wiki/Beatmap_Spotlights/en.md), and organizing monthly beatmapping contests. |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | The second person to be granted the title of [osu!taiko paragon](wiki/People/Users_with_unique_titles/en.md), due to their outstanding contributions to osu!taiko and osu! in general. Contributions include leader of the [Nomination Assessment Team](wiki/People/Nomination_Assessment_Team/en.md), being the manager for [Project Loved](wiki/Community/Project_Loved/en.md), previous manager of [Beatmap Spotlights](wiki/Beatmap_Spotlights/en.md) one of the [maintainers](wiki/People/osu!_wiki_maintainers/en.md) of the osu!wiki, current owner of the [osu!taiko Modding & Mapping Hub Discord server](wiki/Community/Discord_servers/osu!taiko_Modding_&_Mapping_Hub/en.md)|
 
+### Historians
+A full list of names of every one who was involved with the research and creation of this wikipage and their contributions:
+
+| Name | Contributions |
+| :-- | :-- |
+| ::{ flag=PR }:: [Default Guy](https://osu.ppy.sh/users/7058457) | Main researcher, writer and interviewer. |
+| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Answered interview questions, provided old sources, and help with writing. |
+| ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Answered interview questions, and kept a vast majority of old forum posts, pages and discussions well preserved for all these years. |
+| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Answered interview questions. |
+| ::{ flag=KR }:: [arken1015](https://osu.ppy.sh/users/113646) |  Answered interview questions. |
+| ::{ flag=HK }:: [wmfchris](https://osu.ppy.sh/users/7401) | Answered interview questions. |
+| ::{ flag=TH }:: [Kharl](https://osu.ppy.sh/users/452) | Answered interview questions. |
+| ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | Answered interview questions. |
+| ::{ flag=MY }:: [aquabluu](https://osu.ppy.sh/users/6537) | Answered interview questions. |
+| ::{ flag=FR }:: [Sayaka-](https://osu.ppy.sh/users/398275) | Answered interview questions. |
+| ::{ flag=KR }:: [lepidopodus](https://osu.ppy.sh/users/194807) | Answered interview questions. |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Answered interview questions. |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Answered interview questions. |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Answered interview questions. |
+
 ## References
 
 [^BAT]:  [2007 Staff Log](wiki/People/Staff_log/2007/en.md)
-[^LuigiHann]:  [Forum post where LuigiHann suggests adding taiko](https://osu.ppy.sh/community/forums/topics/1683)
-[^taikoadded]:  [Official development changelong mentioning Taiko's Addition.](https://osu.ppy.sh/community/forums/topics/15?n=355)
+[^LuigiHann]:  [Forum post where LuigiHann suggests adding Taiko](https://osu.ppy.sh/community/forums/topics/1683)
+[^taikoadded]:  [Official development changelog mentioning Taiko's Addition.](https://osu.ppy.sh/community/forums/topics/15?n=355)
 [^firsttaikodiff]: [Forum post mentioning the addition of the Taiko difficulty](https://osu.ppy.sh/community/forums/topics/856?n=7)
-[^SpecialMode]:  [Official development changelong mentioning the addition of the Special mode selection](https://osu.ppy.sh/community/forums/topics/15?n=600)
+[^SpecialMode]:  [Official development changelog mentioning the addition of the Special mode selection](https://osu.ppy.sh/community/forums/topics/15?n=600)
+[^ScoreWipe]:  [Official development changelog mentioning the planned Taiko score wipe](https://osu.ppy.sh/community/forums/topics/15?n=999)
+[^sliders]:  Confirmed by downloading an old 2008 osu! client.
 [^mattyuadded]: [2008 Staff Log](wiki/People/Staff_log/2008/en.md)
 [^2012BATs]:  [2012 Staff Log](wiki/People/Staff_log/2012/en.md)
-[^firstRC]:  [Original forum disscussion thread for the first Taiko Ranking Criteria](https://osu.ppy.sh/community/forums/topics/72569)
+[^firstRC]:  [Original forum discussion thread for the first Taiko Ranking Criteria](https://osu.ppy.sh/community/forums/topics/72569)
 [^taikobat]:  [2013 Staff Log](wiki/Staff_Log/2013/en.md)
 [^MapPack]: [Download page for the first taiko beatmap pack](https://osu.ppy.sh/beatmaps/packs/817)
 [^BATrestructure]:  [News post announcing the restructure of the BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
 [^TaikoContest]:  [News post announcing the firt taiko beatmapping contest](https://osu.ppy.sh/home/news/2015-04-13-monthly-beatmapping-contest-9-taiko-only)
 [^loved]:  [News post announcing Loved](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love)
+[^mocha]:  [News post announcing osu!taiko's new mascot.](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)
 [^RCrework]:  [Forum post about the Taiko RC rework draft](https://osu.ppy.sh/community/forums/topics/518637?n=1)
 [^NAT]:  [News post announcing the restructure of the QAT](https://osu.ppy.sh/home/news/2019-05-05-bn-and-qat-restructure)
 [^QI]:  [Forum post introducing the Quality Inspectors](https://osu.ppy.sh/community/forums/topics/1806549?n=1)
 [^QIgone]:  [Forum post announcing the scrapping of Quality Inspectors](https://osu.ppy.sh/community/forums/topics/1806549?n=30)
+[^PPrework]:  [Google doc documenting the proposals for the SR PP rework](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit#heading=h.azyhdbla4xg1)
 [^TrialBN]:  [Forum post introducing the Trial BNs](https://osu.ppy.sh/community/forums/topics/1792742?n=1)
 [^TrialProb]:  [Discord announcement by Ideal](https://discord.com/channels/491771914151526412/492053834038771712/1194799938454966392)
