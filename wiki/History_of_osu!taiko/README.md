@@ -18,6 +18,7 @@ Basically everyone that helped out with the gathering of information, answering 
 - [OnosakiHito](https://osu.ppy.sh/users/290128)
 - [LuigiHann](https://osu.ppy.sh/users/1079)
 - [peppy](https://osu.ppy.sh/users/2)
+- [Hivie](https://osu.ppy.sh/users/14102976)
 - [arken1015](https://osu.ppy.sh/users/113646)
 - [wmfchris](https://osu.ppy.sh/users/7401)
 - [Kharl](https://osu.ppy.sh/users/452)
