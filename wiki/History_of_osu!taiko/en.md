@@ -152,11 +152,19 @@ On the 16th of September, 2020, a new [Taiko Star Rating System](https://osu.ppy
 
 On the 30th of November, 2020, Hybrid maps were required to have 2 BNs per gamemode in order to be qualified. This means that if a map had difficulties from all 4 game modes, then it would need 8 Beatmap Nominators in order to be qualified. This was a stark contrast to the previous system where hybrids only needed 2 Nominators. Because of this new system, the ranked section did not receive a Hybrid map for months.
 
+On the 18th of September, 2021, the map for the song [Kami no Kotoba](https://osu.ppy.sh/beatmapsets/1563463#taiko/3215273) by the mapper ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) was ranked. This map is noteable due to the fact that it was a map with an unsnapped barline gimmick. Normally, a barline is used to denote the start of a new bar, and so barlines would move along with the notes that were snapped to it. However, this map had barlines that weren't snapped to their respectve notes, and moved at a different speed. The reason for this map being so important is that an unsnapped barline like this would've normally been cause for an instant disqualification. 
+
 On the 1st of May, 2022, the [osu!taiko Performance Points Committee](wiki/People/Performance_Points_Committee/en.md) was formed in response to a [community survey](https://osu.ppy.sh/home/news/2022-09-28-changes-to-osu-taiko-sr-and-pp) regarding Performance Points and Star Rating. This comitte consisted of  ::{ flag=AU }:: [-Lawtron-](https://osu.ppy.sh/users/11475208), ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) and ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501). They had made a document detailing a proposal for a major rework for both Star Rating and Performance Points.[^PPrework] This rework would make so that Star Rating and Performance Points would more accurately reflect a map's apparent difficulty. These changes would then be accepted and applied on the 28th of September, 2022.
 
 On the 13 of July, 2023, the Trial BN system was introduced, in which a new tier of Beatmap Nominator was added, the Trial Beatmap Nominators.[^TrialBN] A Trial Beatmap Nominator was tier below a Probatinary Beatmap Nominator, where they would be able to nominate 3 maps in 1 month, as soon as they nominated 3 maps or a month had passed, their nominations would be evaluated. If they passed the trial, Trial BNs would then become a Probatinary Beatmap Nominator. Eventually this would later be reworked into a stricter probationary period, where instead of being a Trial Beatmap Nominator, applicants would be accepted as a Probationary Beatmap Nominator but with probationary periods that are looked at more closely.[^TrialProb]
 
 On the 11th of August, 2023, a new team of people in charge of Quality Assurance was temporarily introduced, the Quality Inspectors.[^QI] Two Quality Inspectors would assing themseves to any newly qualified map, and once both Quality Inspectors complete their checks, the map can continue on as normal. Quality Inspectors would check the maps for any objective isses that would be unrankable. If one was found, then the Quality Inspectors would disqualify the map. Unfortunately, the trial for Quality Inspectors finished and was scrapped on the 22nd of September, 2023.[^QIgone]
+
+On the 23rd of September,2023 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) released [MVTaikoChecks](https://github.com/Hiviexd/MVTaikoChecks), a plugin for the Beatmapping tool, [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier). Mapset Verifier is a commonly tool that can allow mappers to easily catch potentially unrankable issues, which made the process of mapping and modding easier, as mappers could now effortlessly self-check their own maps for issues. However, the tool was originally made for osu!standard, and not osu!taiko. Until ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) released MVTaikoChecks which adding taiko checking capabilities to Mapset Verifier. This made catching issues regarding breaks, unrankable finishers, double barlines, etc... very easy, something that would otherwise require a lot more time and effort to check. This plugin had changed how the NAT now evaluates applicants. Since this extremely powerful tool is easy to use and accesible for everyone, the NAT would make the shift to focus less on being able to spot Ranking Criteria violations, and focus more on quality of modding instead which cannot be automated.
+
+![](wiki/History_of_osu!taiko/img/MVTaiko.JPG "An example of the the checked done by the MVTaikoChecks plugin.")
+
+On the 23rd of February, 2024, the 2nd Cycle of BN Mentorship was announced.[^BNmentor] The BN Mentorship program was formed by the NAT in order to train new Beatmap Nominators. If applicants were succesful, at the end, they would be added directly as a Probatinary Beatmap Nominator. This cycle would prove succesful, as on the 13th of May, 2024, osu!taiko received 4 new Nominators thanks to the BN Mentorship Program.
 
 ## Most Important Individuals
 
@@ -173,7 +181,7 @@ A list of the most important and influential people throughout osu!taiko's histo
 | ::{ flag=HK }:: [wmfchris](https://osu.ppy.sh/users/7401) |  One of the earliest Taiko Mappers,  Taiko-capable BAT and manager of the first Taiko World Cup. |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | The first person to be granted the title of [osu!taiko paragon](wiki/People/Users_with_unique_titles/en.md), due to being the first leading figure of the community and responsible for the creation of the first [Taiko Ranking Criteria](https://osu.ppy.sh/community/forums/topics/72569), the Taiko [BAT](wiki/People/Beatmap_Appreciation_Team/en.md), the #taiko channel  as well being one of the managers of the [Beatmap Spotlights](wiki/Beatmap_Spotlights/en.md), formerly known as the "Ranking Charts".|
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Creator of the [osu!taiko Modding & Mapping Hub Discord server](wiki/Community/Discord_servers/osu!taiko_Modding_&_Mapping_Hub/en.md), as well as being part of [Project Loved](wiki/Community/Project_Loved/en.md), the Mappers' Choice Awards, the [Community Mentorship program](wiki/Community/Community_Mentorship_Program/en.md), [Beatmap Spotlights](wiki/Beatmap_Spotlights/en.md), and organizing monthly beatmapping contests. |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | The second person to be granted the title of [osu!taiko paragon](wiki/People/Users_with_unique_titles/en.md), due to their outstanding contributions to osu!taiko and osu! in general. Contributions include leader of the [Nomination Assessment Team](wiki/People/Nomination_Assessment_Team/en.md), being the manager for [Project Loved](wiki/Community/Project_Loved/en.md), previous manager of [Beatmap Spotlights](wiki/Beatmap_Spotlights/en.md) one of the [maintainers](wiki/People/osu!_wiki_maintainers/en.md) of the osu!wiki, current owner of the [osu!taiko Modding & Mapping Hub Discord server](wiki/Community/Discord_servers/osu!taiko_Modding_&_Mapping_Hub/en.md)|
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | The second person to be granted the title of [osu!taiko paragon](wiki/People/Users_with_unique_titles/en.md), due to their outstanding contributions to osu!taiko and osu! in general. Contributions include leader of the [Nomination Assessment Team](wiki/People/Nomination_Assessment_Team/en.md), being the manager for [Project Loved](wiki/Community/Project_Loved/en.md), previous manager of [Beatmap Spotlights](wiki/Beatmap_Spotlights/en.md) one of the [maintainers](wiki/People/osu!_wiki_maintainers/en.md) of the osu!wiki, current owner of the [osu!taiko Modding & Mapping Hub Discord server](wiki/Community/Discord_servers/osu!taiko_Modding_&_Mapping_Hub/en.md) |
 
 ### Historians
 A full list of names of every one who was involved with the research and creation of this wikipage and their contributions:
@@ -182,6 +190,7 @@ A full list of names of every one who was involved with the research and creatio
 | :-- | :-- |
 | ::{ flag=PR }:: [Default Guy](https://osu.ppy.sh/users/7058457) | Main researcher, writer and interviewer. |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Answered interview questions, provided old sources, and help with writing. |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Answered interview questions and provided sources. |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Answered interview questions, and kept a vast majority of old forum posts, pages and discussions well preserved for all these years. |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Answered interview questions. |
 | ::{ flag=KR }:: [arken1015](https://osu.ppy.sh/users/113646) |  Answered interview questions. |
@@ -193,26 +202,25 @@ A full list of names of every one who was involved with the research and creatio
 | ::{ flag=KR }:: [lepidopodus](https://osu.ppy.sh/users/194807) | Answered interview questions. |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Answered interview questions. |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Answered interview questions. |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Answered interview questions. |
 
 ## References
 
 [^BAT]:  [2007 Staff Log](wiki/People/Staff_log/2007/en.md)
 [^LuigiHann]:  [Forum post where LuigiHann suggests adding Taiko](https://osu.ppy.sh/community/forums/topics/1683)
-[^taikoadded]:  [Official development changelog mentioning Taiko's Addition.](https://osu.ppy.sh/community/forums/topics/15?n=355)
+[^taikoadded]:  [Official development changelog mentioning Taiko's Addition](https://osu.ppy.sh/community/forums/topics/15?n=355)
 [^firsttaikodiff]: [Forum post mentioning the addition of the Taiko difficulty](https://osu.ppy.sh/community/forums/topics/856?n=7)
 [^SpecialMode]:  [Official development changelog mentioning the addition of the Special mode selection](https://osu.ppy.sh/community/forums/topics/15?n=600)
 [^ScoreWipe]:  [Official development changelog mentioning the planned Taiko score wipe](https://osu.ppy.sh/community/forums/topics/15?n=999)
-[^sliders]:  Confirmed by downloading an old 2008 osu! client.
+[^sliders]:  Confirmed by downloading an old 2008 osu! client
 [^mattyuadded]: [2008 Staff Log](wiki/People/Staff_log/2008/en.md)
 [^2012BATs]:  [2012 Staff Log](wiki/People/Staff_log/2012/en.md)
-[^firstRC]:  [Original forum discussion thread for the first Taiko Ranking Criteria](https://osu.ppy.sh/community/forums/topics/72569)
+[^firstRC]:  [Original forum discussion thread for the first Taiko Ranking Criteria.](https://osu.ppy.sh/community/forums/topics/72569)
 [^taikobat]:  [2013 Staff Log](wiki/Staff_Log/2013/en.md)
 [^MapPack]: [Download page for the first taiko beatmap pack](https://osu.ppy.sh/beatmaps/packs/817)
 [^BATrestructure]:  [News post announcing the restructure of the BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
 [^TaikoContest]:  [News post announcing the firt taiko beatmapping contest](https://osu.ppy.sh/home/news/2015-04-13-monthly-beatmapping-contest-9-taiko-only)
 [^loved]:  [News post announcing Loved](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love)
-[^mocha]:  [News post announcing osu!taiko's new mascot.](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)
+[^mocha]:  [News post announcing osu!taiko's new mascot](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)
 [^RCrework]:  [Forum post about the Taiko RC rework draft](https://osu.ppy.sh/community/forums/topics/518637?n=1)
 [^NAT]:  [News post announcing the restructure of the QAT](https://osu.ppy.sh/home/news/2019-05-05-bn-and-qat-restructure)
 [^QI]:  [Forum post introducing the Quality Inspectors](https://osu.ppy.sh/community/forums/topics/1806549?n=1)
@@ -220,3 +228,4 @@ A full list of names of every one who was involved with the research and creatio
 [^PPrework]:  [Google doc documenting the proposals for the SR PP rework](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit#heading=h.azyhdbla4xg1)
 [^TrialBN]:  [Forum post introducing the Trial BNs](https://osu.ppy.sh/community/forums/topics/1792742?n=1)
 [^TrialProb]:  [Discord announcement by Ideal](https://discord.com/channels/491771914151526412/492053834038771712/1194799938454966392)
+[^BNmentor]: [News post announcing the 2nd Cycle of BN Mentorship](https://osu.ppy.sh/home/news/2024-02-23-bn-mentorship-cycle-2)
